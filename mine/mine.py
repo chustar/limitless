@@ -3,17 +3,6 @@ import json
 import datetime
 import pymysql
 
-"""	f = open('company.csv', 'r')
-	companies = f.read().split(', ')
-	for  company in companies:
-		print company
-		if company != '\n':
-			data =  yahoo.get_historical_prices(company,startdate,enddate)
-			for d in data:
-				print d
-	f.close()
-"""
-
 def get_industries(sector):
 	"""
 	Gets the companies in a certain industry
@@ -34,11 +23,11 @@ def get_industries(sector):
 	cur.execute(file.read())
 	file.close()
 	for industry in res['query']['results']['sector']['industry']:
-		print industry['id'].__class__
-		print int(industry['id']).__class__
-		industry['id'] = int(industry['id'])
-		cur.execute('INSERT INTO industries (yahoo_id, name) VALUES(%(num)i, "%(name)s")' %{'num': industry['id'], 'name': industry['name']})
-		get_companies(industry['id'], cur)
+		if len(industry) == 2:
+			industry['id'] = int(industry['id'])
+			industry['name'] = industry['name'].encode('ascii', errors='ignore')
+			cur.execute('INSERT INTO industries (yahoo_id, name) VALUES(%(num)i, "%(name)s")' %{'num': industry['id'], 'name': industry['name']})
+			get_companies(industry['id'], cur)
 	
 	cur.close()
 	conn.close()
@@ -58,33 +47,42 @@ def	get_companies(industry, cur):
 	cur.execute(file.read())
 	file.close()
 	for company in res['query']['results']['industry']['company']:
-		print company['name']
-		cur.execute('INSERT INTO companies (name, symbol) VALUES (%s, %s)', (company['name'], company['symbol']))
-		get_historical_prices(company['symbol'], cur, startdate, str(enddate)[:10])
+		if len(company) == 2:
+			company['name'] = company['name'].encode('ascii', errors='ignore')
+			print company['name']
+			company['symbol'] = company['symbol'].replace('.', '_')
+			cur.execute('INSERT INTO companies (name, symbol) VALUES (%s, %s)', (company['name'], company['symbol']))
+			get_historical_prices(company['symbol'], cur, startdate.replace('-', ''), str(enddate)[:10].replace('-', ''))
 	
 
 #TODO: I think i'm requesting too much data from YQL. That's the only thing that would explain why i get None results. Will switch back to old URL
-def get_historical_prices(symbol, cur, startdate, enddate):
+def get_historical_prices(symbol, cur, start_date, end_date):
 	"""
 	Get historical prices for the given ticker symbol.
 	Date format is 'YYYYMMDD'
 	Returns a nested list.
 	"""
-	url = 'http://query.yahooapis.com/v1/public/yql?q=' + \
-		urllib.quote('select * from yahoo.finance.historicaldata where symbol = "%s" and startDate = "%s" and endDate = "%s"' %(symbol, startdate, enddate)) + \
-		'&env=store://datatables.org/alltableswithkeys&format=json'
-	res = urllib.urlopen(url).readlines()
-	res = json.loads(res[0])
+	url = 'http://ichart.yahoo.com/table.csv?s=%s&' % symbol + \
+		'd=%s&' % str(int(end_date[4:6]) - 1) + \
+		'e=%s&' % str(int(end_date[6:8])) + \
+		'f=%s&' % str(int(end_date[0:4])) + \
+		'g=d&' + \
+		'a=%s&' % str(int(start_date[4:6]) - 1) + \
+		'b=%s&' % str(int(start_date[6:8])) + \
+		'c=%s&' % str(int(start_date[0:4])) + \
+		'ignore=.csv'
+		
+	days = urllib.urlopen(url).readlines()
+	data = [day[:-2].split(',') for day in days]
 	
-	file = open("db_scripts/create_company.template");
+	file = open("db_scripts/create_company.template.sql");
 	cur.execute(file.read() %{'symbol': symbol})
 	file.close()
-	if res['query']['results'] is not None:
-		for stock in res['query']['results']['quote']:
-			print stock
-			cur.execute('INSERT INTO company_%s (date, volume, high_price, low_price, open_price, close_price, close_adjusted, price_change) VALUES ("%s", "%s", %f, %f, %f, %f, %f, %f )' %(symbol, stock['Date'], float(stock['Volume']), float(stock['High']), float(stock['Low']), float(stock['Open']), float(stock['Close']), float(stock['Adj_Close']), float(stock['Open']) - float(stock['Close'])))
+
+	for stock in data[1:]:
+		if len(stock) == 7:
+			cur.execute('INSERT INTO company_%s (date, volume, high_price, low_price, open_price, close_price, close_adjusted, price_change) VALUES ("%s", "%s", %f, %f, %f, %f, %f, %f )' %(symbol, stock[0], float(stock[5]), float(stock[2]), float(stock[3]), float(stock[1]), float(stock[4]), float(stock[6]), float(stock[1]) - float(stock[4])))
 		
-
-
+		
 if __name__ == '__main__':
 	get_industries("Technology")

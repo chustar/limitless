@@ -6,6 +6,5 @@ CREATE TABLE IF NOT EXISTS `company_%(symbol)s` (
   `open_price` float DEFAULT NULL,
   `close_price` float DEFAULT NULL,
   `close_adjusted` float DEFAULT NULL,
-  `price_change` float DEFAULT NULL,
-  PRIMARY KEY (`date`)
+  `price_change` float DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
