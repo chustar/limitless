@@ -51,4 +51,7 @@ div#footer {
     background-color: #e5e5e6;  
 		height: 100px;
 } 
-  
+ 
+#stock {
+	width: 600px;
+}
