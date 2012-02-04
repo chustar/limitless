@@ -48,12 +48,12 @@ rs.each_hash { |h| puts h['Tables_in_limitless'] unless h['Tables_in_limitless']
 																			signal = calcEMA(macd, MDAY, myes)
 																			myes = signal
 																			hist = calcHistogram(macd, signal)
-																			tech = con.query("UPDATE #{table} set short_ema=#{sema}, long_ema=#{lema}, signal_line=#{signal}, histogram=#{hist} WHERE date=#{row}") 
+																			tech = con.query("UPDATE #{table} set short_ema=#{sema}, long_ema=#{lema}, macd=#{macd}, signal_line=#{signal}, histogram=#{hist} WHERE date='#{row}'") 
 																			#tech0 = con.query("UPDATE #{table} set short_ema='#{sema} WHERE date='#{row}'")	
 																			#tech1 = con.query("UPDATE #{table} set long_em=#{lema} WHERE date=#{row}")
 																			#tech2 = con.query("UPDATE #{table} set signal_line=#{signal} WHERE date=#{row}")
 																			#tech3 = con.query("UPDATE #{table} set histogram=#{hist} WHERE date=#{row}")
-																			puts "#{table} #{row}  short ema: #{sema} long ema: #{lema} macd: #{macd} signal line: #{signal} histogram: #{hist}"
+#																			puts "#{table} #{row}  short ema: #{sema} long ema: #{lema} macd: #{macd} signal line: #{signal} histogram: #{hist}"
 																}
 							}
 
