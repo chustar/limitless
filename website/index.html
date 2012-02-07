@@ -10,7 +10,8 @@
 		<script type="text/javascript">
 				$(function() {
 							var stock = 'msft';
-			$.getJSON('http://localhost/limitless/webservice/index.php?stock=' + stock, function(data) {
+			$.getJSON('http://localhost/~minhnguyen/Limitless/webservice/index.php?stock=' + stock, function(data) {
+	//		$.getJSON('http://172.16.0.8/~minhnguyen/limitless/webservice/index.php?stock=' + stock, function(data) {
 			// Create the chart
 			console.log(data);
 				window.chart = new Highcharts.StockChart({
@@ -91,6 +92,7 @@
 		<div class="clear spacer"></div>	
 	</div>	
 		
+	<div class="clear spacer"></div> 
 	<div class="grid_12" id="footer">  
 	</div>  
 </div>
