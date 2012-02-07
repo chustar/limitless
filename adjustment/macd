@@ -1,0 +1,2 @@
+#Simply deducting the longer (for example the 26 day) Exponential Moving Average from the shorter (eg 12 day) EMA gives you the MACD value. This value oscillates around a zero point, zero being where the 26 day EMA is identical, and therefore (usually) crosses over the 12 day EMA.
+#Once the MACD has been calculated, a 9 day Exponential moving average of the MACD value is then calculated. This value is then plotted and is known as the signal line.
