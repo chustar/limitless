@@ -1,5 +1,0 @@
-http://www.ibm.com/developerworks/library/l-neural/
-Threshold logic units
-each neuron in the neural network is a TLU. the TLU is an object that inputs an array of weighted quantities, sums them and if the sum meets or exceeds a threshold, outupts a quantity.
-The output of the function is usually a sigmoid to graduate the output.
-
