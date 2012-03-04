@@ -61,11 +61,10 @@ def get_company(symbol):
 	return dates;
 
 if __name__ == '__main__':
-	for path in ['arff', 'models', 'predictions']
+	for path in ['arff', 'models', 'predictions']:
 		if not os.path.isdir(path):
 			   os.makedirs(path)
 
-	newpath = 'C:\Program Files\alex'; if not os.path.exists(newpath): os.makedirs(newpath)
 	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='', db='limitless')
 	cur = conn.cursor()
 	cur.execute('SELECT symbol FROM companies WHERE avg_volume IS NOT NULL')
