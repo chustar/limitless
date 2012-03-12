@@ -2,7 +2,7 @@
 mysql_connect('localhost', 'root', 'denny') or die("mysql connect: " . mysql_error());
 mysql_select_db('limitless');
 $stock = $_GET['stock'];
-$sql = 'select UNIX_TIMESTAMP(date), close_price from company_' . strtoupper($stock) . ' ORDER BY date ASC';
+$sql = 'select UNIX_TIMESTAMP(date), close_price from weka_prediction_company_' . strtoupper($stock) . ' ORDER BY date ASC';
 $res = mysql_query($sql) or die(mysql_error());
 $all = array();
 while ($arr = mysql_fetch_array($res, MYSQL_NUM)) {
