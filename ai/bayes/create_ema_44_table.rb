@@ -18,9 +18,9 @@ rs.each_hash { |h|
 										table = h['Tables_in_limitless']
 										q.each_hash { |a|
 																			date = a['date']
-																			if a['macd'].to_f < 0.50 && a['macd'].to_f > 0
+																			if a['macd'].to_f < 0.50 && a['macd'].to_f > 0 && Date.parse("#{date}") < Date.parse("2011-9-28")
 																				s = a['date'].split('-')
-																				date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + 22
+																				date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + 44 
 																				cur_price = a['close_price']
 																	#			puts "#{date} = #{date2}"	
 																				theFUTURE = con.query("select * from #{h['Tables_in_limitless']} where date='#{date2}' LIMIT 1")
@@ -29,7 +29,7 @@ rs.each_hash { |h|
 																					price = f1['close_price'].to_f - cur_price.to_f 
 																					price = price.to_f/cur_price.to_f 
 																					price *= 100
-																					if price > 5 
+																					if price > 3 
 																						puts "#{price}"
 																						puts "YES #{date2}: #{f1['close_price']} #{date}: #{cur_price} macd #{f1['macd']} round #{f1['macd'].to_i}"
 																						con.query("INSERT INTO ema22 (date, company, macd, up) VALUES ('#{date}', '#{h['Tables_in_limitless']}', '#{a['macd']}', '1')")
