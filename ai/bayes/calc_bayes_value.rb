@@ -76,7 +76,7 @@ volume5050.each_hash { |h|
 puts "ema total:#{ema_t} yes: #{(ema_y.to_f/ema_t.to_f)*100} no: #{(ema_n.to_f/ema_t.to_f)*100}"
 puts "macd total: #{macd_t} yes: #{(macd_y.to_f/macd_t.to_f)*100} no: #{(macd_n.to_f/macd_t.to_f)*100}"
 puts "volume total: #{v_t} yes: #{(v_y.to_f/v_t.to_f)*100} no: #{(v_n.to_f/v_t.to_f)*100}"
-
+q = con.query("insert into bayes_prediction_22days (ema_total, ema_up, ema_down, macd_total, macd_up, macd_down, v_total, v_up, v_down) VALUES ('#{ema_t}', '#{(ema_y.to_f/ema_t.to_f)*100}', '#{(ema_n.to_f/ema_t.to_f)*100}', '#{macd_t}',  '#{(macd_y.to_f/macd_t.to_f)*100}', '#{(macd_n.to_f/macd_t.to_f)*100}', '#{v_t}', '#{(v_y.to_f/v_t.to_f)*100}', '#{(v_n.to_f/v_t.to_f)*100}')") 
 
 # No check current date of 2011-01-18
 fema_up = 0
@@ -91,7 +91,7 @@ p_gain = 3
 all = con.query("show tables")
 all.each_hash { |h|
 
-	unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies' || h['Tables_in_limitless'] == 'ema22' || h['Tables_in_limitless'] == 'volume5050' || h['Tables_in_limitless'] == 'macd22'
+	if h['Tables_in_limitless'] =~ /company_.*/
 	q = con.query("select * from #{h['Tables_in_limitless']} where date='2011-01-18'")
 	table = h['Tables_in_limitless']
 	q.each_hash { |e| 

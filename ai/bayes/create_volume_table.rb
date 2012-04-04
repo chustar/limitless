@@ -7,9 +7,8 @@ require 'date'
 con = Mysql.new('localhost', 'root', '', 'limitless')
 rs = con.query('show tables')
 rs.each_hash { |h| 
-                    unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies' || h['Tables_in_limitless'] == 'ema22' || h['Tables_in_limitless'] == 'volume5050' || h['Tables_in_limitless'] == 'macd22'      
-										#if h['Tables_in_limitless'] == 'company_A'
-                    q = con.query("select * from #{h['Tables_in_limitless']}")
+                    if h['Tables_in_limitless'] =~ /company_.*/
+										q = con.query("select * from #{h['Tables_in_limitless']}")
                     table = h['Tables_in_limitless']
 										name = h['Tables_in_limitless'].split('_',2)
 										volume = 0

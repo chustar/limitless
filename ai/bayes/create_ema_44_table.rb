@@ -12,8 +12,7 @@ rs.each_hash { |h|
 			puts h['Tables_in_limitless'] unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies'
 										
 									
-										unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies' || h['Tables_in_limitless'] == 'ema22' || h['Tables_in_limitless'] == 'volume5050' || h['Tables_in_limitless'] == 'macd22'  
-										#if h['Tables_in_limitless'] == 'company_A'
+										if h['Tables_in_limitless'] =~ /company_.*/
 										q = con.query("select * from #{h['Tables_in_limitless']}")
 										table = h['Tables_in_limitless']
 										q.each_hash { |a|

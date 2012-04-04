@@ -26,8 +26,8 @@ MDAY = 9
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
 rs = con.query('show tables')
-rs.each_hash { |h| puts h['Tables_in_limitless'] unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies'
-										next if h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies'
+rs.each_hash { |h|
+										if h['Tables_in_limitless'] =~ /company_.*/
 										q = con.query("select * from #{h['Tables_in_limitless']}")
 										table = h['Tables_in_limitless']
 										q.each_hash { |a|
