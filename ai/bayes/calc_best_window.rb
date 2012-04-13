@@ -47,13 +47,13 @@ top_hv = 0
 top_lv = 1 
 top_lookv = 30
 p_gain = 3
-z = 30
+z = 30 
 d_lookahead = z
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
 for i in 1..8
 	for j in 1..25
-		z = 30
+		z = 30 
 		while z < 60			
 fema_up = 0
 fema_down = 0
@@ -66,7 +66,7 @@ d_lookahead = z
 all = con.query("show tables")
 all.each_hash { |h|
 
-	unless h['Tables_in_limitless'] == 'industries' || h['Tables_in_limitless'] == 'companies' || h['Tables_in_limitless'] == 'ema22' || h['Tables_in_limitless'] == 'volume5050' || h['Tables_in_limitless'] == 'macd22'
+	if h['Tables_in_limitless'] =~ /company_.*/
 	month  = i
 	day = j
 	d = Date.new(2011,month.to_i,day.to_i)
