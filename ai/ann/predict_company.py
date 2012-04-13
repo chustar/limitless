@@ -36,7 +36,7 @@ def write_to_file(filename, data, name):
 
 def get_company(symbol):
 	print 'Running ' + symbol + '...'
-	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='password', db='limitless')
+	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='denny', db='limitless')
 	cur = conn.cursor()
 	cur.execute('SELECT date, volume, high_price, low_price, open_price, close_price, close_adjusted, price_change, short_ema, long_ema, macd, signal_line, histogram FROM company_%(symbol)s ORDER BY date' %{'symbol': upper(symbol) })
 
@@ -58,9 +58,9 @@ def get_company(symbol):
 	write_to_file(filename, train_data, symbol)
 	write_to_file(filename2, test_data, symbol)
 	
-#	execs = '/usr/bin/jython weka.py arff/' + symbol + '.train.arff arff/' + symbol + '.test.arff'
-#	os.system(execs);
-#	return dates;
+	execs = '/usr/bin/jython weka.py arff/' + symbol + '.train.arff arff/' + symbol + '.test.arff'
+	os.system(execs);
+	return dates;
 
 if __name__ == '__main__':
 	for path in ['arff', 'models', 'predictions']:
@@ -68,22 +68,27 @@ if __name__ == '__main__':
 			   os.makedirs(path)
 
 
-	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='password', db='limitless')
+	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='denny', db='limitless')
 	cur = conn.cursor()
-	cur.execute('SELECT symbol FROM companies WHERE avg_volume IS NOT NULL')
+	cur.execute('SELECT symbol FROM companies WHERE avg_volume IS NOT NULL ORDER BY symbol')
 	
 	results = cur.fetchall()
-	for symbol in results:
-		dates = get_company(symbol[0])	
+	for company in results:
+		symbol = company[0]
+		dates = get_company(symbol)	
 	
 		print "Saving...\n"
-		cur.execute('DROP TABLE IF EXISTS `weka_prediction_company_%s`' %(symbol[0]))
-		cur.execute('CREATE TABLE IF NOT EXISTS `weka_prediction_company_%s` (`date` date NOT NULL, `open_price` float DEFAULT NULL, `close_price` float DEFAULT NULL)' %(symbol[0]))
+		cur.execute('DROP TABLE IF EXISTS `weka_prediction_company_%s`' %(symbol))
+		cur.execute('CREATE TABLE IF NOT EXISTS `weka_prediction_company_%s` (`date` date NOT NULL, `open_price` float DEFAULT NULL, `close_price` float DEFAULT NULL)' %(symbol))
 
-		file = open("predictions/%s" %(symbol[0]))
-		counter = 0;
-		for line in file:
-			sql = "INSERT INTO `weka_prediction_company_%s`(date, open_price, close_price) VALUES ('%s', 0, %f)" %((symbol[0], dates[counter], float(line)))
-			cur.execute(sql) 
-			counter = counter + 1
-		file.close()
+		try:
+			file = open("predictions/%s" %(symbol))
+			counter = 0;
+			for line in file:
+				sql = "INSERT INTO `weka_prediction_company_%s`(date, open_price, close_price) VALUES ('%s', 0, %f)" %((symbol, dates[counter], float(line)))
+				cur.execute(sql) 
+				counter = counter + 1
+			file.close()
+		except IOError:
+			print 'No available predictions'
+
