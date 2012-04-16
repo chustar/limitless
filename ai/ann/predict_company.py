@@ -36,7 +36,8 @@ def get_company(symbol):
 	print 'Running ' + symbol + '...'
 	conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='', db='limitless')
 	cur = conn.cursor()
-	cur.execute('SELECT date, volume, high_price, low_price, open_price, close_price, close_adjusted, price_change, short_ema, long_ema, macd, signal_line, histogram FROM company_%(symbol)s ORDER BY date' %{'symbol': upper(symbol) })
+#	cur.execute('SELECT date, volume, high_price, low_price, open_price, close_price, close_adjusted, price_change, short_ema, long_ema, macd, signal_line, histogram FROM company_%(symbol)s ORDER BY date' %{'symbol': upper(symbol) })
+	cur.execute('SELECT short_ema, long_ema, histogram FROM company_%(symbol)s ORDER BY date' %{'symbol': upper(symbol) })
 
 	days = datetime.timedelta(22)
 	train_data = []
@@ -55,7 +56,7 @@ def get_company(symbol):
 	filename2 = "arff/" + symbol + ".test.arff"
 	write_to_file(filename, train_data, symbol)
 	write_to_file(filename2, test_data, symbol)
-	
+
 	execs = '/usr/bin/jython weka.py arff/' + symbol + '.train.arff arff/' + symbol + '.test.arff'
 	os.system(execs);
 	return dates;
