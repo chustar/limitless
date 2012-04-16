@@ -1,7 +1,8 @@
-# This file will calculate the bayesian values for ema, macd and volume. It will also try to verify it's result with the latest date 
+#this file will look at 2011 and find a lookahead value that will yeild the highest percentage
 require 'mysql'
 require 'date'
-
+$stdout = File.new('week.out', 'w')
+$stdout.sync = true
 # constants
 syes = 1 
 lyes = 1 
@@ -31,111 +32,83 @@ def calcHistogram(macd, signal)
   macd.to_f - signal.to_f
 end
 
+top_dateE = ""
+top_hE = 0
+top_lE = 1
+top_lookE = 30
 
+top_dateM = ""
+top_hM = 0
+top_lM = 1
+top_lookM = 30
 
+top_datev = ""
+top_hv = 0
+top_lv = 1 
+top_lookv = 30
+p_gain = 3
+z = 5 
+d_lookahead = z
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
-ema_y = 0
-ema_n = 0
-ema_t = 0
-ema22 = con.query('select * from ema22')
-ema22.each_hash { |h|
-	ema_t += 1
-	if h['up'].to_f == 1
-		ema_y += 1
-	else
-		ema_n += 1
-	end
-}
-
-macd_y = 0
-macd_n = 0
-macd_t = 0
-macd22 = con.query('select * from macd22')
-macd22.each_hash { |h|
-	macd_t += 1
-	if h['up'].to_f == 1
-    macd_y += 1
-  else
-    macd_n += 1
-  end 
-}
-
-v_y = 0
-v_n = 0
-v_t = 0
-volume5050 = con.query('select * from volume5050')
-volume5050.each_hash { |h| 
-	v_t += 1
-	if h['up'].to_f == 1
-		v_y += 1
-	else
-		v_n += 1
-	end
-}
-puts "ema total:#{ema_t} yes: #{(ema_y.to_f/ema_t.to_f)*100} no: #{(ema_n.to_f/ema_t.to_f)*100}"
-puts "macd total: #{macd_t} yes: #{(macd_y.to_f/macd_t.to_f)*100} no: #{(macd_n.to_f/macd_t.to_f)*100}"
-puts "volume total: #{v_t} yes: #{(v_y.to_f/v_t.to_f)*100} no: #{(v_n.to_f/v_t.to_f)*100}"
-q = con.query("insert into bayes_prediction_22days (ema_total, ema_up, ema_down, macd_total, macd_up, macd_down, v_total, v_up, v_down) VALUES ('#{ema_t}', '#{(ema_y.to_f/ema_t.to_f)*100}', '#{(ema_n.to_f/ema_t.to_f)*100}', '#{macd_t}',  '#{(macd_y.to_f/macd_t.to_f)*100}', '#{(macd_n.to_f/macd_t.to_f)*100}', '#{v_t}', '#{(v_y.to_f/v_t.to_f)*100}', '#{(v_n.to_f/v_t.to_f)*100}')") 
-
-# No check current date of 2011-01-18
+for i in 1..8
+	for j in 1..25
+		z = 5 
+		while z < 14			
 fema_up = 0
 fema_down = 0
 fmacd_up = 0
 fmacd_down = 0
 fv_up = 0
 fv_down = 0
-
-d_lookahead = 44
-p_gain = 3
+d = ""
+d_lookahead = z
 all = con.query("show tables")
 all.each_hash { |h|
 
-	if h['Tables_in_limitless'] =~ /company_.*/
-	q = con.query("select * from #{h['Tables_in_limitless']} where date='2011-01-18'")
+	if h['Tables_in_limitless'] =~ /company_.*/	
+	month  = i
+	day = j
+	d = Date.new(2011,month.to_i,day.to_i)
+	q = con.query("select * from #{h['Tables_in_limitless']} where date='#{d}'")
 	table = h['Tables_in_limitless']
 	q.each_hash { |e| 
 		c = e['macd']
 		c_macd = e['histogram'].to_f
-		if c.to_f < '0.50'.to_f && c.to_f > 0
-			bayes = (ema_y.to_f/ema_t.to_f) * 100
-			nbayes = (ema_n.to_f/ema_t.to_f)*100
-			s = e['date'].split('-')
-			date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + d_lookahead.to_i 
-			cur_price = e['close_price']
-			theFUTURE = con.query("select * from #{h['Tables_in_limitless']} where date='#{date2}' LIMIT 1")
-			theFUTURE.each_hash { |f1|
-                               	price = f1['close_price'].to_f - cur_price.to_f 
-                                price = price.to_f/cur_price.to_f 
-                               	price *= 100 
-                                if price > p_gain.to_i 
-																	fema_up += 1
-																else
-																	fema_down += 1
-																end
-													}
-		#	puts "EMA #{table} UP prob: #{bayes} Down prob: #{nbayes}"			
-		end
-		if c_macd.to_f < '0.05'.to_f && c_macd.to_f > 0
-			upMac = (macd_y.to_f/macd_t.to_f) * 100 
-      downMac = (macd_n.to_f/macd_t.to_f) * 100 
+    if c.to_f < '0.50'.to_f && c.to_f > 0 
       s = e['date'].split('-')
       date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + d_lookahead.to_i 
+      cur_price = e['close_price']
+      theFUTURE = con.query("select * from #{h['Tables_in_limitless']} where date='#{date2}' LIMIT 1")
+      theFUTURE.each_hash { |f1|
+                                price = f1['close_price'].to_f - cur_price.to_f 
+                                price = price.to_f/cur_price.to_f 
+                                price *= 100 
+                                if price > 5 
+                                  fema_up += 1
+                                else
+                                  fema_down += 1
+                                end 
+                          }   
+    # puts "EMA #{table} UP prob: #{bayes} Down prob: #{nbayes}"      
+    end 
+    if c_macd.to_f < '0.05'.to_f && c_macd.to_f > 0 
+      s = e['date'].split('-')
+      date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + d_lookahead.to_i  
       cur_price1 = e['close_price']
       theFUTURE = con.query("select * from #{h['Tables_in_limitless']} where date='#{date2}' LIMIT 1")
       theFUTURE.each_hash { |f1|
                                 price1 = f1['close_price'].to_f - cur_price1.to_f
                                 price1 = price1.to_f/cur_price1.to_f
-                                price1 *= 100
-                                if price1 > p_gain.to_i 
+                                price1 *= 100 
+                                if price1 > 5 
                                   fmacd_up += 1
                                 else
                                   fmacd_down += 1
-                                end
-                          }  
-   # puts "MACD #{table} UP prob: #{upMac} Down prob: #{downMac}"	
-		end	
-	
+                                end 
+                          }   
+   # puts "MACD #{table} UP prob: #{upMac} Down prob: #{downMac}" 
+    end 	
 		name = h['Tables_in_limitless'].split('_',2)	
 		volume = e['volume']
 		compavg = con.query("select * from companies where symbol='#{name[1]}' LIMIT 1") 
@@ -157,7 +130,7 @@ all.each_hash { |h|
                                 price = f1['close_price'].to_f - cur_price.to_f
                                 price = price.to_f/cur_price.to_f
                                 price *= 100
-                                if price > p_gain.to_i 
+                                if price.to_i > p_gain.to_i
                                   fv_up += 1
                                 else
                                   fv_down += 1
@@ -168,14 +141,40 @@ all.each_hash { |h|
 		end			
 
 	}
-	end
+
+	end # unless statement
 }
 
-puts "Current values: "
+puts "#{d} lookahead #{z}:"
 puts "#{fema_up} #{fema_down} percentage ema up #{(fema_up.to_f)/(fema_up.to_f+fema_down.to_f)} down: #{(fema_down.to_f)/(fema_up.to_f+fema_down.to_f)}"
 puts "#{fmacd_up} #{fmacd_down} percentage macd up #{(fmacd_up.to_f)/(fmacd_up.to_f+fmacd_down.to_f)} down: #{(fmacd_down.to_f)/(fmacd_up.to_f+fmacd_down.to_f)}"
 puts "#{fv_up} #{fv_down} percentage volume up #{(fv_up.to_f)/(fv_up.to_f+fv_down.to_f)} down: #{(fv_down.to_f)/(fv_up.to_f+fv_down.to_f)}"
- 
+	if (fema_up.to_f)/(fema_up.to_f+fema_down.to_f) > (top_hE.to_f)/(top_hE.to_f + top_lE.to_f)
+		top_dateE = d
+		top_hE = fema_up
+		top_lE = fema_down	
+		top_lookE = d_lookahead
+	end
+	if (fmacd_up.to_f)/(fmacd_up.to_f+fmacd_down.to_f) > (top_hM.to_f)/(top_hM.to_f + top_lM.to_f)
+		top_dateM = d
+		top_hM = fmacd_up
+		top_lM = fmacd_down
+		top_lookM = d_lookahead
+	end
+	if (fv_up.to_f)/(fv_up.to_f+fv_down.to_f) >  (top_hv.to_f)/(top_hv.to_f + top_lv.to_f)
+		top_datev = d
+		top_hv = fv_up
+		top_lv = fv_down	
+		top_lookv = d_lookahead
+	end
+puts "-------------------------HIGH Performance-------------------------"
+puts "EMA date: #{top_dateE} lookahead: #{top_lookE} up: #{(top_hE.to_f)/(top_hE.to_f + top_lE.to_f)} down: #{(top_lE.to_f)/(top_hE.to_f + top_lE.to_f)}"
+puts "MACD date: #{top_dateM} lookahead: #{top_lookM} up: #{(top_hM.to_f)/(top_hM.to_f + top_lM.to_f)} down: #{(top_lM.to_f)/(top_hM.to_f + top_lM.to_f)}"
+puts "VOLUME date: #{top_datev} lookahead: #{top_lookv} up: #{(top_hv.to_f)/(top_hv.to_f + top_lv.to_f)} down: #{(top_lv.to_f)/(top_hv.to_f + top_lv.to_f)}"
+				z += 7 # look ahead increment 
+			end # while loop lookahead
+ 		end #for loop day
+	end # for loop month
 con.close
 
 

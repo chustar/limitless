@@ -1,0 +1,3200 @@
+2011-01-01 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-01 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-02 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-02 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-03 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-03 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-04 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-04 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date:  lookahead: 30 up: 0.0 down: 1.0
+MACD date:  lookahead: 30 up: 0.0 down: 1.0
+VOLUME date:  lookahead: 30 up: 0.0 down: 1.0
+2011-01-05 lookahead 5:
+36 300 percentage ema up 0.10714285714285714 down: 0.8928571428571429
+15 205 percentage macd up 0.06818181818181818 down: 0.9318181818181818
+36 120 percentage volume up 0.23076923076923078 down: 0.7692307692307693
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-05 lookahead: 5 up: 0.10714285714285714 down: 0.8928571428571429
+MACD date: 2011-01-05 lookahead: 5 up: 0.06818181818181818 down: 0.9318181818181818
+VOLUME date: 2011-01-05 lookahead: 5 up: 0.23076923076923078 down: 0.7692307692307693
+2011-01-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-05 lookahead: 5 up: 0.10714285714285714 down: 0.8928571428571429
+MACD date: 2011-01-05 lookahead: 5 up: 0.06818181818181818 down: 0.9318181818181818
+VOLUME date: 2011-01-05 lookahead: 5 up: 0.23076923076923078 down: 0.7692307692307693
+2011-01-06 lookahead 5:
+34 304 percentage ema up 0.10059171597633136 down: 0.8994082840236687
+12 216 percentage macd up 0.05263157894736842 down: 0.9473684210526315
+28 62 percentage volume up 0.3111111111111111 down: 0.6888888888888889
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-05 lookahead: 5 up: 0.10714285714285714 down: 0.8928571428571429
+MACD date: 2011-01-05 lookahead: 5 up: 0.06818181818181818 down: 0.9318181818181818
+VOLUME date: 2011-01-06 lookahead: 5 up: 0.3111111111111111 down: 0.6888888888888889
+2011-01-06 lookahead 12:
+67 271 percentage ema up 0.19822485207100593 down: 0.8017751479289941
+29 199 percentage macd up 0.12719298245614036 down: 0.8728070175438597
+39 51 percentage volume up 0.43333333333333335 down: 0.5666666666666667
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-07 lookahead 5:
+54 284 percentage ema up 0.15976331360946747 down: 0.8402366863905325
+24 215 percentage macd up 0.100418410041841 down: 0.899581589958159
+22 30 percentage volume up 0.4230769230769231 down: 0.5769230769230769
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-07 lookahead 12:
+27 311 percentage ema up 0.07988165680473373 down: 0.9201183431952663
+17 222 percentage macd up 0.07112970711297072 down: 0.9288702928870293
+20 32 percentage volume up 0.38461538461538464 down: 0.6153846153846154
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-08 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-08 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-09 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-10 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-10 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-11 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-11 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-12 lookahead 12:
+14 356 percentage ema up 0.03783783783783784 down: 0.9621621621621622
+12 261 percentage macd up 0.04395604395604396 down: 0.9560439560439561
+19 78 percentage volume up 0.1958762886597938 down: 0.8041237113402062
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-13 lookahead 5:
+37 331 percentage ema up 0.10054347826086957 down: 0.8994565217391305
+27 254 percentage macd up 0.09608540925266904 down: 0.9039145907473309
+17 72 percentage volume up 0.19101123595505617 down: 0.8089887640449438
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-13 lookahead 12:
+11 357 percentage ema up 0.029891304347826088 down: 0.970108695652174
+8 273 percentage macd up 0.028469750889679714 down: 0.9715302491103203
+14 75 percentage volume up 0.15730337078651685 down: 0.8426966292134831
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-14 lookahead 5:
+16 345 percentage ema up 0.0443213296398892 down: 0.9556786703601108
+5 270 percentage macd up 0.01818181818181818 down: 0.9818181818181818
+9 129 percentage volume up 0.06521739130434782 down: 0.9347826086956522
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-14 lookahead 12:
+16 345 percentage ema up 0.0443213296398892 down: 0.9556786703601108
+8 267 percentage macd up 0.02909090909090909 down: 0.9709090909090909
+17 121 percentage volume up 0.12318840579710146 down: 0.8768115942028986
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-15 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-15 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-16 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-17 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-17 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-18 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-18 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-19 lookahead 5:
+11 302 percentage ema up 0.03514376996805112 down: 0.9648562300319489
+11 215 percentage macd up 0.048672566371681415 down: 0.9513274336283186
+2 18 percentage volume up 0.1 down: 0.9
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-19 lookahead 12:
+11 302 percentage ema up 0.03514376996805112 down: 0.9648562300319489
+3 223 percentage macd up 0.01327433628318584 down: 0.9867256637168141
+4 16 percentage volume up 0.2 down: 0.8
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-20 lookahead 5:
+16 275 percentage ema up 0.054982817869415807 down: 0.9450171821305842
+7 174 percentage macd up 0.03867403314917127 down: 0.9613259668508287
+5 42 percentage volume up 0.10638297872340426 down: 0.8936170212765957
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-20 lookahead 12:
+28 263 percentage ema up 0.09621993127147767 down: 0.9037800687285223
+10 171 percentage macd up 0.055248618784530384 down: 0.9447513812154696
+16 31 percentage volume up 0.3404255319148936 down: 0.6595744680851063
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-21 lookahead 5:
+40 252 percentage ema up 0.136986301369863 down: 0.863013698630137
+20 165 percentage macd up 0.10810810810810811 down: 0.8918918918918919
+10 31 percentage volume up 0.24390243902439024 down: 0.7560975609756098
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-21 lookahead 12:
+41 251 percentage ema up 0.1404109589041096 down: 0.8595890410958904
+17 168 percentage macd up 0.0918918918918919 down: 0.9081081081081082
+15 26 percentage volume up 0.36585365853658536 down: 0.6341463414634146
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-23 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-23 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-24 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-24 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-25 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-01-25 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-02-01 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-02-01 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-02-02 lookahead 5:
+57 340 percentage ema up 0.14357682619647355 down: 0.8564231738035264
+10 162 percentage macd up 0.05813953488372093 down: 0.9418604651162791
+33 89 percentage volume up 0.27049180327868855 down: 0.7295081967213115
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-01-06 lookahead: 12 up: 0.19822485207100593 down: 0.8017751479289941
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-01-06 lookahead: 12 up: 0.43333333333333335 down: 0.5666666666666667
+2011-02-02 lookahead 12:
+86 311 percentage ema up 0.21662468513853905 down: 0.783375314861461
+8 164 percentage macd up 0.046511627906976744 down: 0.9534883720930233
+57 65 percentage volume up 0.4672131147540984 down: 0.5327868852459017
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-03 lookahead 5:
+65 348 percentage ema up 0.15738498789346247 down: 0.8426150121065376
+11 171 percentage macd up 0.06043956043956044 down: 0.9395604395604396
+20 55 percentage volume up 0.26666666666666666 down: 0.7333333333333333
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-03 lookahead 12:
+78 335 percentage ema up 0.18886198547215496 down: 0.8111380145278451
+12 170 percentage macd up 0.06593406593406594 down: 0.9340659340659341
+27 48 percentage volume up 0.36 down: 0.64
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-04 lookahead 5:
+46 375 percentage ema up 0.10926365795724466 down: 0.8907363420427553
+15 194 percentage macd up 0.07177033492822966 down: 0.9282296650717703
+20 89 percentage volume up 0.1834862385321101 down: 0.8165137614678899
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-04 lookahead 12:
+72 349 percentage ema up 0.171021377672209 down: 0.828978622327791
+12 197 percentage macd up 0.05741626794258373 down: 0.9425837320574163
+39 70 percentage volume up 0.3577981651376147 down: 0.6422018348623854
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-05 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-06 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-06 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-07 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-07 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-08 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-08 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-09 lookahead 5:
+69 388 percentage ema up 0.15098468271334792 down: 0.849015317286652
+22 230 percentage macd up 0.0873015873015873 down: 0.9126984126984127
+25 47 percentage volume up 0.3472222222222222 down: 0.6527777777777778
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-10 lookahead 5:
+50 416 percentage ema up 0.1072961373390558 down: 0.8927038626609443
+16 243 percentage macd up 0.06177606177606178 down: 0.9382239382239382
+24 108 percentage volume up 0.18181818181818182 down: 0.8181818181818182
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-10 lookahead 12:
+32 434 percentage ema up 0.06866952789699571 down: 0.9313304721030042
+7 252 percentage macd up 0.02702702702702703 down: 0.972972972972973
+21 111 percentage volume up 0.1590909090909091 down: 0.8409090909090909
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-11 lookahead 5:
+44 423 percentage ema up 0.09421841541755889 down: 0.9057815845824411
+25 250 percentage macd up 0.09090909090909091 down: 0.9090909090909091
+26 111 percentage volume up 0.1897810218978102 down: 0.8102189781021898
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-11 lookahead 12:
+20 447 percentage ema up 0.042826552462526764 down: 0.9571734475374732
+7 268 percentage macd up 0.025454545454545455 down: 0.9745454545454545
+15 122 percentage volume up 0.10948905109489052 down: 0.8905109489051095
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-12 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-13 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-13 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-14 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-14 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-15 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-15 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-16 lookahead 12:
+25 450 percentage ema up 0.05263157894736842 down: 0.9473684210526315
+10 280 percentage macd up 0.034482758620689655 down: 0.9655172413793104
+11 101 percentage volume up 0.09821428571428571 down: 0.9017857142857143
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-17 lookahead 5:
+12 465 percentage ema up 0.025157232704402517 down: 0.9748427672955975
+3 299 percentage macd up 0.009933774834437087 down: 0.9900662251655629
+6 105 percentage volume up 0.05405405405405406 down: 0.9459459459459459
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-17 lookahead 12:
+21 456 percentage ema up 0.0440251572327044 down: 0.9559748427672956
+6 296 percentage macd up 0.019867549668874173 down: 0.9801324503311258
+13 98 percentage volume up 0.11711711711711711 down: 0.8828828828828829
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-18 lookahead 5:
+5 469 percentage ema up 0.010548523206751054 down: 0.989451476793249
+0 301 percentage macd up 0.0 down: 1.0
+1 65 percentage volume up 0.015151515151515152 down: 0.9848484848484849
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-18 lookahead 12:
+15 459 percentage ema up 0.03164556962025317 down: 0.9683544303797469
+6 295 percentage macd up 0.019933554817275746 down: 0.9800664451827242
+8 58 percentage volume up 0.12121212121212122 down: 0.8787878787878788
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-19 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-19 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-20 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-20 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-21 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-21 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-01-06 lookahead: 12 up: 0.12719298245614036 down: 0.8728070175438597
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-23 lookahead 5:
+89 344 percentage ema up 0.20554272517321015 down: 0.7944572748267898
+41 251 percentage macd up 0.1404109589041096 down: 0.8595890410958904
+7 17 percentage volume up 0.2916666666666667 down: 0.7083333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-23 lookahead 12:
+48 385 percentage ema up 0.11085450346420324 down: 0.8891454965357968
+17 275 percentage macd up 0.05821917808219178 down: 0.9417808219178082
+8 16 percentage volume up 0.3333333333333333 down: 0.6666666666666666
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-24 lookahead 5:
+40 400 percentage ema up 0.09090909090909091 down: 0.9090909090909091
+23 283 percentage macd up 0.07516339869281045 down: 0.9248366013071896
+18 119 percentage volume up 0.13138686131386862 down: 0.8686131386861314
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-24 lookahead 12:
+58 382 percentage ema up 0.1318181818181818 down: 0.8681818181818182
+28 278 percentage macd up 0.0915032679738562 down: 0.9084967320261438
+48 89 percentage volume up 0.35036496350364965 down: 0.6496350364963503
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-25 lookahead 5:
+23 424 percentage ema up 0.05145413870246085 down: 0.9485458612975392
+8 299 percentage macd up 0.026058631921824105 down: 0.9739413680781759
+12 120 percentage volume up 0.09090909090909091 down: 0.9090909090909091
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-02-25 lookahead 12:
+26 421 percentage ema up 0.058165548098434 down: 0.941834451901566
+10 297 percentage macd up 0.03257328990228013 down: 0.9674267100977199
+23 109 percentage volume up 0.17424242424242425 down: 0.8257575757575758
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-01 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-01 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-02 lookahead 5:
+21 412 percentage ema up 0.04849884526558892 down: 0.9515011547344111
+11 268 percentage macd up 0.03942652329749104 down: 0.9605734767025089
+15 83 percentage volume up 0.15306122448979592 down: 0.8469387755102041
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-02 lookahead 12:
+9 424 percentage ema up 0.020785219399538105 down: 0.9792147806004619
+6 273 percentage macd up 0.021505376344086023 down: 0.978494623655914
+8 90 percentage volume up 0.08163265306122448 down: 0.9183673469387755
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-03 lookahead 5:
+14 419 percentage ema up 0.03233256351039261 down: 0.9676674364896074
+13 252 percentage macd up 0.04905660377358491 down: 0.9509433962264151
+18 120 percentage volume up 0.13043478260869565 down: 0.8695652173913043
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-03 lookahead 12:
+6 427 percentage ema up 0.013856812933025405 down: 0.9861431870669746
+3 262 percentage macd up 0.011320754716981131 down: 0.9886792452830189
+12 126 percentage volume up 0.08695652173913043 down: 0.9130434782608695
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-04 lookahead 5:
+19 374 percentage ema up 0.04834605597964377 down: 0.9516539440203562
+16 253 percentage macd up 0.05947955390334572 down: 0.9405204460966543
+7 47 percentage volume up 0.12962962962962962 down: 0.8703703703703703
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-04 lookahead 12:
+4 389 percentage ema up 0.010178117048346057 down: 0.989821882951654
+1 268 percentage macd up 0.0037174721189591076 down: 0.9962825278810409
+4 50 percentage volume up 0.07407407407407407 down: 0.9259259259259259
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-05 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-06 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-06 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-07 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-07 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-08 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-08 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-09 lookahead 5:
+11 287 percentage ema up 0.03691275167785235 down: 0.9630872483221476
+1 275 percentage macd up 0.0036231884057971015 down: 0.9963768115942029
+5 51 percentage volume up 0.08928571428571429 down: 0.9107142857142857
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-09 lookahead 12:
+10 288 percentage ema up 0.03355704697986577 down: 0.9664429530201343
+4 272 percentage macd up 0.014492753623188406 down: 0.9855072463768116
+7 49 percentage volume up 0.125 down: 0.875
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-10 lookahead 5:
+14 232 percentage ema up 0.056910569105691054 down: 0.943089430894309
+3 229 percentage macd up 0.01293103448275862 down: 0.9870689655172413
+5 36 percentage volume up 0.12195121951219512 down: 0.8780487804878049
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-10 lookahead 12:
+13 233 percentage ema up 0.052845528455284556 down: 0.9471544715447154
+6 226 percentage macd up 0.02586206896551724 down: 0.9741379310344828
+6 35 percentage volume up 0.14634146341463414 down: 0.8536585365853658
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-11 lookahead 5:
+15 216 percentage ema up 0.06493506493506493 down: 0.935064935064935
+5 207 percentage macd up 0.02358490566037736 down: 0.9764150943396226
+6 106 percentage volume up 0.05357142857142857 down: 0.9464285714285714
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-11 lookahead 12:
+18 213 percentage ema up 0.07792207792207792 down: 0.922077922077922
+7 205 percentage macd up 0.0330188679245283 down: 0.9669811320754716
+25 87 percentage volume up 0.22321428571428573 down: 0.7767857142857143
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-12 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-13 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-13 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-14 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-14 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-15 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-15 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-16 lookahead 5:
+46 170 percentage ema up 0.21296296296296297 down: 0.7870370370370371
+14 90 percentage macd up 0.1346153846153846 down: 0.8653846153846154
+14 41 percentage volume up 0.2545454545454545 down: 0.7454545454545455
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-02-02 lookahead: 12 up: 0.21662468513853905 down: 0.783375314861461
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-02-02 lookahead: 12 up: 0.4672131147540984 down: 0.5327868852459017
+2011-03-16 lookahead 12:
+52 164 percentage ema up 0.24074074074074073 down: 0.7592592592592593
+14 90 percentage macd up 0.1346153846153846 down: 0.8653846153846154
+32 23 percentage volume up 0.5818181818181818 down: 0.41818181818181815
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-16 lookahead: 12 up: 0.24074074074074073 down: 0.7592592592592593
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-17 lookahead 5:
+50 188 percentage ema up 0.21008403361344538 down: 0.7899159663865546
+12 104 percentage macd up 0.10344827586206896 down: 0.896551724137931
+12 38 percentage volume up 0.24 down: 0.76
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-16 lookahead: 12 up: 0.24074074074074073 down: 0.7592592592592593
+MACD date: 2011-02-23 lookahead: 5 up: 0.1404109589041096 down: 0.8595890410958904
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-17 lookahead 12:
+74 164 percentage ema up 0.31092436974789917 down: 0.6890756302521008
+18 98 percentage macd up 0.15517241379310345 down: 0.8448275862068966
+27 23 percentage volume up 0.54 down: 0.46
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-17 lookahead: 12 up: 0.31092436974789917 down: 0.6890756302521008
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-18 lookahead 5:
+42 228 percentage ema up 0.15555555555555556 down: 0.8444444444444444
+11 142 percentage macd up 0.0718954248366013 down: 0.9281045751633987
+22 59 percentage volume up 0.2716049382716049 down: 0.7283950617283951
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-17 lookahead: 12 up: 0.31092436974789917 down: 0.6890756302521008
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-18 lookahead 12:
+84 186 percentage ema up 0.3111111111111111 down: 0.6888888888888889
+20 133 percentage macd up 0.13071895424836602 down: 0.869281045751634
+41 40 percentage volume up 0.5061728395061729 down: 0.49382716049382713
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-19 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-19 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-20 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-20 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-21 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-21 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-23 lookahead 5:
+36 331 percentage ema up 0.09809264305177112 down: 0.9019073569482289
+10 171 percentage macd up 0.055248618784530384 down: 0.9447513812154696
+33 67 percentage volume up 0.33 down: 0.67
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-23 lookahead 12:
+76 291 percentage ema up 0.20708446866485014 down: 0.7929155313351499
+12 169 percentage macd up 0.06629834254143646 down: 0.9337016574585635
+40 60 percentage volume up 0.4 down: 0.6
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-24 lookahead 5:
+49 350 percentage ema up 0.12280701754385964 down: 0.8771929824561403
+12 181 percentage macd up 0.06217616580310881 down: 0.9378238341968912
+20 101 percentage volume up 0.1652892561983471 down: 0.8347107438016529
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-24 lookahead 12:
+74 325 percentage ema up 0.18546365914786966 down: 0.8145363408521303
+6 187 percentage macd up 0.031088082901554404 down: 0.9689119170984456
+36 85 percentage volume up 0.2975206611570248 down: 0.7024793388429752
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-25 lookahead 5:
+70 346 percentage ema up 0.16826923076923078 down: 0.8317307692307693
+15 177 percentage macd up 0.078125 down: 0.921875
+21 45 percentage volume up 0.3181818181818182 down: 0.6818181818181818
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-03-25 lookahead 12:
+80 336 percentage ema up 0.19230769230769232 down: 0.8076923076923077
+7 185 percentage macd up 0.036458333333333336 down: 0.9635416666666666
+25 41 percentage volume up 0.3787878787878788 down: 0.6212121212121212
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-01 lookahead 5:
+42 389 percentage ema up 0.09744779582366589 down: 0.9025522041763341
+12 267 percentage macd up 0.043010752688172046 down: 0.956989247311828
+17 57 percentage volume up 0.22972972972972974 down: 0.7702702702702703
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-01 lookahead 12:
+17 414 percentage ema up 0.03944315545243619 down: 0.9605568445475638
+5 274 percentage macd up 0.017921146953405017 down: 0.982078853046595
+8 66 percentage volume up 0.10810810810810811 down: 0.8918918918918919
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-02 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-02 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-03 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-03 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-04 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-04 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-05 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-06 lookahead 5:
+15 409 percentage ema up 0.03537735849056604 down: 0.964622641509434
+5 263 percentage macd up 0.018656716417910446 down: 0.9813432835820896
+4 62 percentage volume up 0.06060606060606061 down: 0.9393939393939394
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-06 lookahead 12:
+10 414 percentage ema up 0.02358490566037736 down: 0.9764150943396226
+5 263 percentage macd up 0.018656716417910446 down: 0.9813432835820896
+4 62 percentage volume up 0.06060606060606061 down: 0.9393939393939394
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-07 lookahead 5:
+8 400 percentage ema up 0.0196078431372549 down: 0.9803921568627451
+4 259 percentage macd up 0.015209125475285171 down: 0.9847908745247148
+4 45 percentage volume up 0.08163265306122448 down: 0.9183673469387755
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-07 lookahead 12:
+14 394 percentage ema up 0.03431372549019608 down: 0.9656862745098039
+7 256 percentage macd up 0.026615969581749048 down: 0.973384030418251
+4 45 percentage volume up 0.08163265306122448 down: 0.9183673469387755
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-08 lookahead 5:
+7 396 percentage ema up 0.017369727047146403 down: 0.9826302729528535
+7 213 percentage macd up 0.031818181818181815 down: 0.9681818181818181
+1 26 percentage volume up 0.037037037037037035 down: 0.9629629629629629
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-08 lookahead 12:
+18 385 percentage ema up 0.04466501240694789 down: 0.9553349875930521
+8 212 percentage macd up 0.03636363636363636 down: 0.9636363636363636
+5 22 percentage volume up 0.18518518518518517 down: 0.8148148148148148
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-09 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-10 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-10 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-11 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-11 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-12 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-13 lookahead 5:
+25 362 percentage ema up 0.06459948320413436 down: 0.9354005167958657
+6 153 percentage macd up 0.03773584905660377 down: 0.9622641509433962
+13 56 percentage volume up 0.18840579710144928 down: 0.8115942028985508
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-13 lookahead 12:
+61 326 percentage ema up 0.15762273901808785 down: 0.8423772609819121
+6 153 percentage macd up 0.03773584905660377 down: 0.9622641509433962
+30 39 percentage volume up 0.43478260869565216 down: 0.5652173913043478
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-14 lookahead 5:
+26 371 percentage ema up 0.0654911838790932 down: 0.9345088161209067
+5 137 percentage macd up 0.035211267605633804 down: 0.9647887323943662
+13 67 percentage volume up 0.1625 down: 0.8375
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-14 lookahead 12:
+86 311 percentage ema up 0.21662468513853905 down: 0.783375314861461
+11 131 percentage macd up 0.07746478873239436 down: 0.9225352112676056
+35 45 percentage volume up 0.4375 down: 0.5625
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-15 lookahead 5:
+33 374 percentage ema up 0.08108108108108109 down: 0.918918918918919
+5 132 percentage macd up 0.0364963503649635 down: 0.9635036496350365
+11 58 percentage volume up 0.15942028985507245 down: 0.8405797101449275
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-15 lookahead 12:
+90 317 percentage ema up 0.22113022113022113 down: 0.7788697788697788
+8 129 percentage macd up 0.058394160583941604 down: 0.9416058394160584
+29 40 percentage volume up 0.42028985507246375 down: 0.5797101449275363
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-16 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-17 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-17 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-18 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-18 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-19 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-19 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-20 lookahead 5:
+41 409 percentage ema up 0.09111111111111111 down: 0.9088888888888889
+10 186 percentage macd up 0.05102040816326531 down: 0.9489795918367347
+10 77 percentage volume up 0.11494252873563218 down: 0.8850574712643678
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-20 lookahead 12:
+67 383 percentage ema up 0.14888888888888888 down: 0.8511111111111112
+9 187 percentage macd up 0.04591836734693878 down: 0.9540816326530612
+24 63 percentage volume up 0.27586206896551724 down: 0.7241379310344828
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-21 lookahead 5:
+43 423 percentage ema up 0.09227467811158799 down: 0.907725321888412
+17 181 percentage macd up 0.08585858585858586 down: 0.9141414141414141
+10 67 percentage volume up 0.12987012987012986 down: 0.8701298701298701
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-21 lookahead 12:
+41 425 percentage ema up 0.08798283261802575 down: 0.9120171673819742
+4 194 percentage macd up 0.020202020202020204 down: 0.9797979797979798
+13 64 percentage volume up 0.16883116883116883 down: 0.8311688311688312
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-23 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-23 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-24 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-24 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-25 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-04-25 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-01 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-01 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-02 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-02 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-03 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-03 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-04 lookahead 5:
+56 450 percentage ema up 0.11067193675889328 down: 0.8893280632411067
+13 233 percentage macd up 0.052845528455284556 down: 0.9471544715447154
+15 51 percentage volume up 0.22727272727272727 down: 0.7727272727272727
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-04 lookahead 12:
+40 466 percentage ema up 0.07905138339920949 down: 0.9209486166007905
+0 246 percentage macd up 0.0 down: 1.0
+12 54 percentage volume up 0.18181818181818182 down: 0.8181818181818182
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-05 lookahead 5:
+112 417 percentage ema up 0.21172022684310018 down: 0.7882797731568998
+40 229 percentage macd up 0.14869888475836432 down: 0.8513011152416357
+41 72 percentage volume up 0.36283185840707965 down: 0.6371681415929203
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-05 lookahead 12:
+25 504 percentage ema up 0.04725897920604915 down: 0.9527410207939508
+0 269 percentage macd up 0.0 down: 1.0
+11 102 percentage volume up 0.09734513274336283 down: 0.9026548672566371
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-06 lookahead 5:
+48 489 percentage ema up 0.0893854748603352 down: 0.9106145251396648
+23 281 percentage macd up 0.0756578947368421 down: 0.9243421052631579
+8 54 percentage volume up 0.12903225806451613 down: 0.8709677419354839
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-06 lookahead 12:
+33 504 percentage ema up 0.061452513966480445 down: 0.9385474860335196
+5 299 percentage macd up 0.01644736842105263 down: 0.9835526315789473
+11 51 percentage volume up 0.1774193548387097 down: 0.8225806451612904
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-07 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-07 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-08 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-08 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-09 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-10 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-10 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-11 lookahead 5:
+16 521 percentage ema up 0.0297951582867784 down: 0.9702048417132216
+3 302 percentage macd up 0.009836065573770493 down: 0.9901639344262295
+2 42 percentage volume up 0.045454545454545456 down: 0.9545454545454546
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-11 lookahead 12:
+16 521 percentage ema up 0.0297951582867784 down: 0.9702048417132216
+0 305 percentage macd up 0.0 down: 1.0
+4 40 percentage volume up 0.09090909090909091 down: 0.9090909090909091
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-12 lookahead 5:
+17 514 percentage ema up 0.032015065913371 down: 0.967984934086629
+2 302 percentage macd up 0.006578947368421052 down: 0.993421052631579
+6 117 percentage volume up 0.04878048780487805 down: 0.9512195121951219
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-12 lookahead 12:
+14 517 percentage ema up 0.026365348399246705 down: 0.9736346516007532
+1 303 percentage macd up 0.003289473684210526 down: 0.9967105263157895
+8 115 percentage volume up 0.06504065040650407 down: 0.9349593495934959
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-13 lookahead 5:
+19 516 percentage ema up 0.03551401869158879 down: 0.9644859813084112
+5 297 percentage macd up 0.016556291390728478 down: 0.9834437086092715
+5 25 percentage volume up 0.16666666666666666 down: 0.8333333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-13 lookahead 12:
+18 517 percentage ema up 0.03364485981308411 down: 0.9663551401869159
+4 298 percentage macd up 0.013245033112582781 down: 0.9867549668874173
+5 25 percentage volume up 0.16666666666666666 down: 0.8333333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-14 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-14 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-15 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-15 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-16 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-17 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-17 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-18 lookahead 5:
+19 537 percentage ema up 0.0341726618705036 down: 0.9658273381294964
+7 295 percentage macd up 0.023178807947019868 down: 0.9768211920529801
+10 119 percentage volume up 0.07751937984496124 down: 0.9224806201550387
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-18 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-19 lookahead 5:
+15 541 percentage ema up 0.02697841726618705 down: 0.9730215827338129
+3 301 percentage macd up 0.009868421052631578 down: 0.9901315789473685
+4 46 percentage volume up 0.08 down: 0.92
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-19 lookahead 12:
+63 493 percentage ema up 0.11330935251798561 down: 0.8866906474820144
+10 294 percentage macd up 0.03289473684210526 down: 0.9671052631578947
+15 35 percentage volume up 0.3 down: 0.7
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-20 lookahead 5:
+23 522 percentage ema up 0.04220183486238532 down: 0.9577981651376147
+5 312 percentage macd up 0.015772870662460567 down: 0.9842271293375394
+12 47 percentage volume up 0.2033898305084746 down: 0.7966101694915254
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-20 lookahead 12:
+40 505 percentage ema up 0.07339449541284404 down: 0.926605504587156
+2 315 percentage macd up 0.006309148264984227 down: 0.9936908517350158
+16 43 percentage volume up 0.2711864406779661 down: 0.7288135593220338
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-21 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-21 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-23 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-23 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-24 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-24 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-25 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-05-25 lookahead 12:
+28 526 percentage ema up 0.05054151624548736 down: 0.9494584837545126
+4 318 percentage macd up 0.012422360248447204 down: 0.9875776397515528
+10 87 percentage volume up 0.10309278350515463 down: 0.8969072164948454
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-01 lookahead 5:
+14 481 percentage ema up 0.028282828282828285 down: 0.9717171717171718
+5 310 percentage macd up 0.015873015873015872 down: 0.9841269841269841
+6 27 percentage volume up 0.18181818181818182 down: 0.8181818181818182
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-01 lookahead 12:
+2 493 percentage ema up 0.00404040404040404 down: 0.9959595959595959
+1 314 percentage macd up 0.0031746031746031746 down: 0.9968253968253968
+6 27 percentage volume up 0.18181818181818182 down: 0.8181818181818182
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-02 lookahead 5:
+7 472 percentage ema up 0.014613778705636743 down: 0.9853862212943633
+3 311 percentage macd up 0.009554140127388535 down: 0.9904458598726115
+3 46 percentage volume up 0.061224489795918366 down: 0.9387755102040817
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-02 lookahead 12:
+5 474 percentage ema up 0.010438413361169102 down: 0.9895615866388309
+2 312 percentage macd up 0.006369426751592357 down: 0.9936305732484076
+6 43 percentage volume up 0.12244897959183673 down: 0.8775510204081632
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-03 lookahead 5:
+7 446 percentage ema up 0.01545253863134658 down: 0.9845474613686535
+2 330 percentage macd up 0.006024096385542169 down: 0.9939759036144579
+5 64 percentage volume up 0.07246376811594203 down: 0.927536231884058
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-03 lookahead 12:
+6 447 percentage ema up 0.013245033112582781 down: 0.9867549668874173
+2 330 percentage macd up 0.006024096385542169 down: 0.9939759036144579
+8 61 percentage volume up 0.11594202898550725 down: 0.8840579710144928
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-04 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-04 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-05 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-06 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-06 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-07 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-07 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-08 lookahead 5:
+9 367 percentage ema up 0.023936170212765957 down: 0.976063829787234
+8 227 percentage macd up 0.03404255319148936 down: 0.9659574468085106
+3 20 percentage volume up 0.13043478260869565 down: 0.8695652173913043
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-08 lookahead 12:
+4 372 percentage ema up 0.010638297872340425 down: 0.9893617021276596
+3 232 percentage macd up 0.01276595744680851 down: 0.9872340425531915
+4 19 percentage volume up 0.17391304347826086 down: 0.8260869565217391
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-09 lookahead 5:
+21 350 percentage ema up 0.05660377358490566 down: 0.9433962264150944
+5 200 percentage macd up 0.024390243902439025 down: 0.975609756097561
+7 50 percentage volume up 0.12280701754385964 down: 0.8771929824561403
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-09 lookahead 12:
+17 354 percentage ema up 0.04582210242587601 down: 0.954177897574124
+2 203 percentage macd up 0.00975609756097561 down: 0.9902439024390244
+10 47 percentage volume up 0.17543859649122806 down: 0.8245614035087719
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-10 lookahead 5:
+25 319 percentage ema up 0.07267441860465117 down: 0.9273255813953488
+4 167 percentage macd up 0.023391812865497075 down: 0.9766081871345029
+5 43 percentage volume up 0.10416666666666667 down: 0.8958333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-10 lookahead 12:
+29 315 percentage ema up 0.08430232558139535 down: 0.9156976744186046
+4 167 percentage macd up 0.023391812865497075 down: 0.9766081871345029
+11 37 percentage volume up 0.22916666666666666 down: 0.7708333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-11 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-11 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-12 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-13 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-13 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-14 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-14 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-15 lookahead 5:
+14 347 percentage ema up 0.038781163434903045 down: 0.961218836565097
+1 101 percentage macd up 0.00980392156862745 down: 0.9901960784313726
+6 35 percentage volume up 0.14634146341463414 down: 0.8536585365853658
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-15 lookahead 12:
+48 313 percentage ema up 0.1329639889196676 down: 0.8670360110803325
+3 99 percentage macd up 0.029411764705882353 down: 0.9705882352941176
+13 28 percentage volume up 0.3170731707317073 down: 0.6829268292682927
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-16 lookahead 5:
+52 327 percentage ema up 0.13720316622691292 down: 0.862796833773087
+4 77 percentage macd up 0.04938271604938271 down: 0.9506172839506173
+14 30 percentage volume up 0.3181818181818182 down: 0.6818181818181818
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-16 lookahead 12:
+86 293 percentage ema up 0.22691292875989447 down: 0.7730870712401056
+2 79 percentage macd up 0.024691358024691357 down: 0.9753086419753086
+22 22 percentage volume up 0.5 down: 0.5
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-17 lookahead 5:
+57 352 percentage ema up 0.1393643031784841 down: 0.8606356968215159
+5 68 percentage macd up 0.0684931506849315 down: 0.9315068493150684
+13 28 percentage volume up 0.3170731707317073 down: 0.6829268292682927
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-03-18 lookahead: 12 up: 0.3111111111111111 down: 0.6888888888888889
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-03-16 lookahead: 12 up: 0.5818181818181818 down: 0.41818181818181815
+2011-06-17 lookahead 12:
+131 278 percentage ema up 0.3202933985330073 down: 0.6797066014669927
+4 69 percentage macd up 0.0547945205479452 down: 0.9452054794520548
+27 14 percentage volume up 0.6585365853658537 down: 0.34146341463414637
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-18 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-18 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-19 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-19 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-20 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-20 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-21 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-21 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-22 lookahead 5:
+58 420 percentage ema up 0.12133891213389121 down: 0.8786610878661087
+4 67 percentage macd up 0.056338028169014086 down: 0.9436619718309859
+15 44 percentage volume up 0.2542372881355932 down: 0.7457627118644068
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-23 lookahead 5:
+80 401 percentage ema up 0.16632016632016633 down: 0.8336798336798337
+10 72 percentage macd up 0.12195121951219512 down: 0.8780487804878049
+43 110 percentage volume up 0.28104575163398693 down: 0.7189542483660131
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-17 lookahead: 12 up: 0.3202933985330073 down: 0.6797066014669927
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-23 lookahead 12:
+171 310 percentage ema up 0.35550935550935553 down: 0.6444906444906445
+7 75 percentage macd up 0.08536585365853659 down: 0.9146341463414634
+81 72 percentage volume up 0.5294117647058824 down: 0.47058823529411764
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-23 lookahead: 12 up: 0.35550935550935553 down: 0.6444906444906445
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-24 lookahead 5:
+92 389 percentage ema up 0.19126819126819128 down: 0.8087318087318087
+7 67 percentage macd up 0.0945945945945946 down: 0.9054054054054054
+22 58 percentage volume up 0.275 down: 0.725
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-23 lookahead: 12 up: 0.35550935550935553 down: 0.6444906444906445
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-24 lookahead 12:
+213 268 percentage ema up 0.44282744282744285 down: 0.5571725571725572
+4 70 percentage macd up 0.05405405405405406 down: 0.9459459459459459
+39 41 percentage volume up 0.4875 down: 0.5125
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-25 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-06-25 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-01 lookahead 5:
+41 435 percentage ema up 0.0861344537815126 down: 0.9138655462184874
+10 183 percentage macd up 0.05181347150259067 down: 0.9481865284974094
+12 109 percentage volume up 0.09917355371900827 down: 0.9008264462809917
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-01 lookahead 12:
+44 432 percentage ema up 0.09243697478991597 down: 0.907563025210084
+1 192 percentage macd up 0.0051813471502590676 down: 0.9948186528497409
+10 111 percentage volume up 0.08264462809917356 down: 0.9173553719008265
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-02 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-02 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-03 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-03 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-04 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-04 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-05 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-05 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-06 lookahead 5:
+26 446 percentage ema up 0.05508474576271186 down: 0.9449152542372882
+7 233 percentage macd up 0.029166666666666667 down: 0.9708333333333333
+11 65 percentage volume up 0.14473684210526316 down: 0.8552631578947368
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-06 lookahead 12:
+34 438 percentage ema up 0.07203389830508475 down: 0.9279661016949152
+3 237 percentage macd up 0.0125 down: 0.9875
+11 65 percentage volume up 0.14473684210526316 down: 0.8552631578947368
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-07 lookahead 5:
+14 454 percentage ema up 0.029914529914529916 down: 0.9700854700854701
+1 254 percentage macd up 0.00392156862745098 down: 0.996078431372549
+2 105 percentage volume up 0.018691588785046728 down: 0.9813084112149533
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-07 lookahead 12:
+35 433 percentage ema up 0.07478632478632478 down: 0.9252136752136753
+3 252 percentage macd up 0.011764705882352941 down: 0.9882352941176471
+9 98 percentage volume up 0.08411214953271028 down: 0.9158878504672897
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-08 lookahead 5:
+17 452 percentage ema up 0.03624733475479744 down: 0.9637526652452025
+4 249 percentage macd up 0.015810276679841896 down: 0.9841897233201581
+3 68 percentage volume up 0.04225352112676056 down: 0.9577464788732394
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-08 lookahead 12:
+47 422 percentage ema up 0.10021321961620469 down: 0.8997867803837953
+6 247 percentage macd up 0.023715415019762844 down: 0.9762845849802372
+8 63 percentage volume up 0.11267605633802817 down: 0.8873239436619719
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-09 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-10 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-10 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-11 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-11 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-12 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-12 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-13 lookahead 5:
+18 456 percentage ema up 0.0379746835443038 down: 0.9620253164556962
+3 256 percentage macd up 0.011583011583011582 down: 0.9884169884169884
+6 66 percentage volume up 0.08333333333333333 down: 0.9166666666666666
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-13 lookahead 12:
+68 406 percentage ema up 0.14345991561181434 down: 0.8565400843881856
+3 256 percentage macd up 0.011583011583011582 down: 0.9884169884169884
+12 60 percentage volume up 0.16666666666666666 down: 0.8333333333333334
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-14 lookahead 5:
+57 402 percentage ema up 0.12418300653594772 down: 0.8758169934640523
+13 247 percentage macd up 0.05 down: 0.95
+6 28 percentage volume up 0.17647058823529413 down: 0.8235294117647058
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-14 lookahead 12:
+100 359 percentage ema up 0.2178649237472767 down: 0.7821350762527233
+12 248 percentage macd up 0.046153846153846156 down: 0.9538461538461539
+7 27 percentage volume up 0.20588235294117646 down: 0.7941176470588235
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-15 lookahead 5:
+47 412 percentage ema up 0.10239651416122005 down: 0.8976034858387799
+16 265 percentage macd up 0.05693950177935943 down: 0.9430604982206405
+5 29 percentage volume up 0.14705882352941177 down: 0.8529411764705882
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-15 lookahead 12:
+52 407 percentage ema up 0.11328976034858387 down: 0.8867102396514162
+3 278 percentage macd up 0.010676156583629894 down: 0.9893238434163701
+5 29 percentage volume up 0.14705882352941177 down: 0.8529411764705882
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-16 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-17 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-17 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-18 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-18 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-19 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-19 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-20 lookahead 5:
+35 407 percentage ema up 0.07918552036199095 down: 0.920814479638009
+23 228 percentage macd up 0.09163346613545817 down: 0.9083665338645418
+5 24 percentage volume up 0.1724137931034483 down: 0.8275862068965517
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-20 lookahead 12:
+40 402 percentage ema up 0.09049773755656108 down: 0.9095022624434389
+11 240 percentage macd up 0.043824701195219126 down: 0.9561752988047809
+3 26 percentage volume up 0.10344827586206896 down: 0.896551724137931
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-21 lookahead 5:
+51 390 percentage ema up 0.11564625850340136 down: 0.8843537414965986
+33 208 percentage macd up 0.13692946058091288 down: 0.8630705394190872
+15 70 percentage volume up 0.17647058823529413 down: 0.8235294117647058
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-21 lookahead 12:
+36 405 percentage ema up 0.08163265306122448 down: 0.9183673469387755
+20 221 percentage macd up 0.08298755186721991 down: 0.91701244813278
+4 81 percentage volume up 0.047058823529411764 down: 0.9529411764705882
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-22 lookahead 5:
+16 437 percentage ema up 0.03532008830022075 down: 0.9646799116997793
+7 212 percentage macd up 0.0319634703196347 down: 0.9680365296803652
+7 98 percentage volume up 0.06666666666666667 down: 0.9333333333333333
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-22 lookahead 12:
+32 421 percentage ema up 0.0706401766004415 down: 0.9293598233995585
+18 201 percentage macd up 0.0821917808219178 down: 0.9178082191780822
+4 101 percentage volume up 0.0380952380952381 down: 0.9619047619047619
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-23 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-23 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-24 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-24 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-25 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-07-25 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-01 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-01 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-02 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-02 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-03 lookahead 5:
+2 470 percentage ema up 0.00423728813559322 down: 0.9957627118644068
+1 191 percentage macd up 0.005208333333333333 down: 0.9947916666666666
+2 158 percentage volume up 0.0125 down: 0.9875
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-03 lookahead 12:
+10 462 percentage ema up 0.0211864406779661 down: 0.9788135593220338
+11 181 percentage macd up 0.057291666666666664 down: 0.9427083333333334
+10 150 percentage volume up 0.0625 down: 0.9375
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-04 lookahead 5:
+15 390 percentage ema up 0.037037037037037035 down: 0.9629629629629629
+8 249 percentage macd up 0.0311284046692607 down: 0.9688715953307393
+0 18 percentage volume up 0.0 down: 1.0
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-04 lookahead 12:
+18 387 percentage ema up 0.044444444444444446 down: 0.9555555555555556
+18 239 percentage macd up 0.07003891050583658 down: 0.9299610894941635
+1 17 percentage volume up 0.05555555555555555 down: 0.9444444444444444
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-05 lookahead 5:
+8 346 percentage ema up 0.022598870056497175 down: 0.9774011299435028
+8 262 percentage macd up 0.02962962962962963 down: 0.9703703703703703
+0 44 percentage volume up 0.0 down: 1.0
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-05 lookahead 12:
+18 336 percentage ema up 0.05084745762711865 down: 0.9491525423728814
+27 243 percentage macd up 0.1 down: 0.9
+11 33 percentage volume up 0.25 down: 0.75
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-06 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-06 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-07 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-07 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-08 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-08 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-09 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-09 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-06-24 lookahead: 12 up: 0.44282744282744285 down: 0.5571725571725572
+MACD date: 2011-03-17 lookahead: 12 up: 0.15517241379310345 down: 0.8448275862068966
+VOLUME date: 2011-06-17 lookahead: 12 up: 0.6585365853658537 down: 0.34146341463414637
+2011-08-10 lookahead 5:
+210 110 percentage ema up 0.65625 down: 0.34375
+143 94 percentage macd up 0.6033755274261603 down: 0.39662447257383965
+60 14 percentage volume up 0.8108108108108109 down: 0.1891891891891892
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-10 lookahead 12:
+18 302 percentage ema up 0.05625 down: 0.94375
+26 211 percentage macd up 0.10970464135021098 down: 0.890295358649789
+12 62 percentage volume up 0.16216216216216217 down: 0.8378378378378378
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-11 lookahead 5:
+44 318 percentage ema up 0.12154696132596685 down: 0.8784530386740331
+43 192 percentage macd up 0.1829787234042553 down: 0.8170212765957446
+84 285 percentage volume up 0.22764227642276422 down: 0.7723577235772358
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-11 lookahead 12:
+22 340 percentage ema up 0.06077348066298342 down: 0.9392265193370166
+23 212 percentage macd up 0.09787234042553192 down: 0.902127659574468
+53 316 percentage volume up 0.14363143631436315 down: 0.8563685636856369
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-12 lookahead 5:
+30 319 percentage ema up 0.08595988538681948 down: 0.9140401146131805
+20 216 percentage macd up 0.0847457627118644 down: 0.9152542372881356
+13 67 percentage volume up 0.1625 down: 0.8375
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-12 lookahead 12:
+25 324 percentage ema up 0.07163323782234957 down: 0.9283667621776505
+18 218 percentage macd up 0.07627118644067797 down: 0.923728813559322
+16 64 percentage volume up 0.2 down: 0.8
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-13 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-13 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-14 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-14 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-15 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-15 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-16 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-16 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-17 lookahead 5:
+4 279 percentage ema up 0.014134275618374558 down: 0.9858657243816255
+3 198 percentage macd up 0.014925373134328358 down: 0.9850746268656716
+1 44 percentage volume up 0.022222222222222223 down: 0.9777777777777777
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-17 lookahead 12:
+38 245 percentage ema up 0.13427561837455831 down: 0.8657243816254417
+31 170 percentage macd up 0.15422885572139303 down: 0.845771144278607
+9 36 percentage volume up 0.2 down: 0.8
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-18 lookahead 5:
+56 188 percentage ema up 0.22950819672131148 down: 0.7704918032786885
+31 132 percentage macd up 0.1901840490797546 down: 0.8098159509202454
+7 24 percentage volume up 0.22580645161290322 down: 0.7741935483870968
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-18 lookahead 12:
+111 133 percentage ema up 0.45491803278688525 down: 0.5450819672131147
+65 98 percentage macd up 0.3987730061349693 down: 0.6012269938650306
+17 14 percentage volume up 0.5483870967741935 down: 0.45161290322580644
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-19 lookahead 5:
+114 133 percentage ema up 0.46153846153846156 down: 0.5384615384615384
+49 91 percentage macd up 0.35 down: 0.65
+42 34 percentage volume up 0.5526315789473685 down: 0.4473684210526316
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-19 lookahead 12:
+155 92 percentage ema up 0.6275303643724697 down: 0.3724696356275304
+67 73 percentage macd up 0.4785714285714286 down: 0.5214285714285715
+57 19 percentage volume up 0.75 down: 0.25
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-20 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-20 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-21 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-21 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-22 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-22 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-23 lookahead 5:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-23 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-24 lookahead 5:
+88 206 percentage ema up 0.29931972789115646 down: 0.7006802721088435
+44 103 percentage macd up 0.29931972789115646 down: 0.7006802721088435
+52 46 percentage volume up 0.5306122448979592 down: 0.46938775510204084
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-24 lookahead 12:
+0 0 percentage ema up NaN down: NaN
+0 0 percentage macd up NaN down: NaN
+0 0 percentage volume up NaN down: NaN
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-25 lookahead 5:
+172 117 percentage ema up 0.5951557093425606 down: 0.40484429065743943
+80 67 percentage macd up 0.54421768707483 down: 0.4557823129251701
+13 7 percentage volume up 0.65 down: 0.35
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892
+2011-08-25 lookahead 12:
+41 248 percentage ema up 0.14186851211072665 down: 0.8581314878892734
+27 120 percentage macd up 0.1836734693877551 down: 0.8163265306122449
+8 12 percentage volume up 0.4 down: 0.6
+-------------------------HIGH Performance-------------------------
+EMA date: 2011-08-10 lookahead: 5 up: 0.65625 down: 0.34375
+MACD date: 2011-08-10 lookahead: 5 up: 0.6033755274261603 down: 0.39662447257383965
+VOLUME date: 2011-08-10 lookahead: 5 up: 0.8108108108108109 down: 0.1891891891891892

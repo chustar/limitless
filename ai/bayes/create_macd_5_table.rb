@@ -18,7 +18,7 @@ rs.each_hash { |h|
 										q.each_hash { |a| 
 																			date = a['date']
                                       s = a['date'].split('-')
-                                      date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + 44 
+                                      date2 = Date.new(s[0].to_i, s[1].to_i, s[2].to_i) + 5 
                                         
 																			cur_price = a['close_price']
 																			if a['histogram'].to_f < 0.50 && a['histogram'].to_f > 0 && Date.parse("#{date}") < Date.parse("2011-9-28")
@@ -31,10 +31,10 @@ rs.each_hash { |h|
                                     		      if price > 3 
 																								#puts "#{price}"
                                     		        #puts "YES #{date2}: #{f1['close_price']} #{date}: #{cur_price}"
-                                    		        con.query("INSERT INTO macd22 (date, company, histogram, up) VALUES ('#{date}', '#{h['Tables_in_limitless']}', '#{a['histogram']}', '1')")
+                                    		        con.query("INSERT INTO macd5 (date, company, histogram, up) VALUES ('#{date}', '#{h['Tables_in_limitless']}', '#{a['histogram']}', '1')")
                                     		      else
                                     		        #puts "NO #{date2}: #{f1['close_price']} #{date}: #{cur_price}"
-                                    		        con.query("INSERT INTO macd22 (date, company, histogram, up) VALUES ('#{date}', '#{h['Tables_in_limitless']}', '#{a['histogram']}', '0')")
+                                    		        con.query("INSERT INTO macd5 (date, company, histogram, up) VALUES ('#{date}', '#{h['Tables_in_limitless']}', '#{a['histogram']}', '0')")
                                     		      end 
 																					}
 																			end
