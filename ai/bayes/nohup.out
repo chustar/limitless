@@ -1,0 +1,3 @@
+calc_bayes_value.rb:57:in `block in <main>': Interrupt
+	from calc_bayes_value.rb:55:in `each_hash'
+	from calc_bayes_value.rb:55:in `<main>'
