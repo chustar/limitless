@@ -1,5 +1,5 @@
 <?php
-mysql_connect('localhost', 'root', 'denny') or die("mysql connect: " . mysql_error());
+mysql_connect('localhost', 'root', '') or die("mysql connect: " . mysql_error());
 mysql_select_db('limitless');
 $stock = $_GET['stock'];
 $sql = 'select name FROM companies WHERE symbol = "' . strtoupper($stock) . '"';

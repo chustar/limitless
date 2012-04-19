@@ -3,7 +3,8 @@
 # if the difference is less than .50 then the data will be logged 
 require 'mysql'
 require 'date'
-
+$stdout = File.new('emaweekly.out', 'w')
+$stdout.sync = true
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
 rs = con.query('show tables')

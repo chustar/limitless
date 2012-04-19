@@ -4,38 +4,38 @@
 		<link rel="stylesheet" type="text/css" media="all" href="css/960.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="css/main.css" />
 		<!--<link href='http://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'>-->
-		<script type="text/javascript" src="jquery.js"></script>
-		<script type="text/javascript" src="highstock/js/highstock.js"></script>
-		<script type="text/javascript">
-			var count = 0;
-			var series = new Array();
-			//var stock = '<?= $_GET['stock'] ?>';
-			var stock = 'msft';
-			var createChart = function() {
-				window.chart = new Highcharts.StockChart({
-					chart : {
-						renderTo : 'stock'
-					},
-					rangeSelector : {
-						selected : 4
-					},
-					tooltip: {
-						pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b><br/>',
-						valueDecimals: 2
-					},
-					plotLines: [{
-						value: 0,
-							width: 2,
-							color: 'silver'
-					}],
-					series : series
-				});
-			};
-			$(function() {
-				$.getJSON('../webservice/index.php?stock=' + stock, function(data) {
-					series.push({'name': stock, 'data': data });
-					count++;
-					if(count == 2) {
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="highstock/js/highstock.js"></script>
+<script type="text/javascript">
+var count = 0;
+var series = new Array();
+var stock = '<?= $_GET['stock'] ?>';
+//var stock = 'msft';
+var createChart = function() {
+	window.chart = new Highcharts.StockChart({
+		chart : {
+			renderTo : 'stock'
+		},
+		rangeSelector : {
+			selected : 4
+		},
+		tooltip: {
+			pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b><br/>',
+				valueDecimals: 2
+		},
+		plotLines: [{
+			value: 0,
+				width: 2,
+				color: 'silver'
+		}],
+		series : series
+	});
+};
+$(function() {
+	$.getJSON('../webservice/index.php?stock=' + stock, function(data) {
+		series.push({'name': stock, 'data': data });
+		count++;
+					if(count == 1) {
 						createChart();
 					}
 				});
@@ -43,7 +43,7 @@
 				$.getJSON('../webservice/predictions.php?stock=' + stock, function(data) {
 					series.push({'name': stock + ' Prediction', 'data': data });
 					count++;
-					if(count == 2) {
+					if(count == 1) {
 						createChart();
 					}
 				});
@@ -59,8 +59,8 @@
 		  <script>
   
   $(document).ready(function(){
-    //var stock = '<?= $_GET['stock'] ?>'; 
-    var stock = 'xata';
+    var stock = '<?= $_GET['stock'] ?>'; 
+   // var stock = 'xata';
 		$.ajax({
         url: '../webservice/bayes.php',
         data: 'stock=' + stock,
