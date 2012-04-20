@@ -1,0 +1,2133 @@
+bayes_prediction_22days
+company_A
+company_AAPL
+company_AATI
+company_ABTL
+company_ABVT
+company_ACCL
+company_ACFN
+company_ACIW
+company_ACLS
+company_ACOM
+company_ACTS
+company_ACTT_PK
+company_ACTV
+company_ACXM
+company_ADAT
+company_ADBE
+company_ADI
+company_ADP
+company_ADSK
+company_ADSV_PK
+company_ADTN
+company_ADVC_OB
+company_ADVS
+company_AEHR
+company_AEIS
+company_AERG
+company_AFFX
+0.0105269 past: -0.00121579
+1
+2
+3
+4
+5
+6
+YES 2011-10-05: 5.48 2011-09-29: 5.1 macd 0.115272 round 0
+company_AFOP
+0.0287941 past: -0.431527
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 8.09
+company_AGYS
+0.0401744 past: -0.0625002
+1
+YES 2011-10-05: 7.83 2011-10-04: 7.54 macd 0.0875293 round 0
+company_AIFS_PK
+company_AKAM
+company_ALAN_OB
+company_ALLN_PK
+company_ALLT
+company_ALOG
+company_ALOT
+0.0861527 past: -0.158385
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 7.5
+company_ALSK
+0.063359 past: -0.0264965
+1
+YES 2011-10-28: 7 2011-10-27: 6.59 macd 0.155192 round 0
+company_ALTR
+company_ALU
+company_ALVR
+company_AMAP
+0.146667 past: -1.03988
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 13.15
+company_AMAT
+company_AMCC
+company_AMD
+company_AMKR
+company_AMOT
+0.27281 past: -0.156225
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 5.25
+company_AMSC
+company_AMSWA
+company_AMT
+company_AMX
+0.0302339 past: -0.0197505
+1
+2
+3
+4
+5
+6
+7
+8
+YES 2011-10-26: 24.56 2011-10-18: 23.78 macd 0.124042 round 0
+company_ANAD
+company_ANDR_OB
+company_ANEN
+company_ANLY
+company_ANSS
+company_ANTP
+company_ANTS_PK
+company_AOL
+company_AOSL
+company_APCX_PK
+company_APH
+company_API
+company_APKT
+company_APNT_OB
+company_APYI_PK
+company_ARBA
+company_ARC
+company_ARCW
+company_ARIO_PK
+company_ARRS
+company_ARUN
+company_ARX
+company_ASIA
+1.73391 past: -2.17388
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 10.77
+1.73391 past: -2.17388
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 10.77
+company_ASTI
+1.06702 past: -3.36847
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 0.8
+company_ASUR
+0.034978 past: -0.0332752
+1
+2
+3
+YES 2011-10-28: 3.49 2011-10-25: 3.3 macd 0.373247 round 0
+company_ASX
+company_ASYS
+company_ATE
+0.0214089 past: -0.0144661
+1
+2
+YES 2011-10-06: 10.51 2011-10-04: 10.19 macd 0.128715 round 0
+company_ATEA
+company_ATMI
+0.0466623 past: -0.0740242
+1
+YES 2011-10-19: 19.32 2011-10-18: 18.47 macd 0.155314 round 0
+company_ATML
+0.0785377 past: -0.0281616
+1
+YES 2011-10-05: 8.29 2011-10-04: 7.98 macd 0.169399 round 0
+company_ATNI
+company_ATNY
+company_ATRM
+company_ATRN
+company_ATSC
+company_ATTUF_OB
+company_ATVI
+company_AUDC
+company_AUO
+company_AUTH
+0.0450214 past: -0.407953
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.83
+company_AUTNF_PK
+company_AVGG_OB
+company_AVGO
+company_AVID
+company_AVNW
+company_AVSR_PK
+company_AVX
+company_AWAY
+company_AWRE
+company_AXTI
+company_AYI
+company_AZPN
+company_BBND
+company_BBOX
+company_BCAS_PK
+company_BCDS
+company_BCE
+company_BCOM
+company_BCSI
+company_BCST_OB
+company_BDR
+company_BDTE_PK
+company_BELFB
+company_BGAT_OB
+company_BHE
+0.106735 past: -0.0896867
+1
+YES 2011-10-27: 15.17 2011-10-26: 14.23 macd 0.330559 round 0
+company_BIDU
+company_BIO
+0.041857 past: -0.315961
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-04: 92.47
+company_BIRT
+company_BITA
+0.16933 past: -0.395026
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 6
+company_BITS
+0.178777 past: -0.196092
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 5.94
+company_BKYI_OB
+company_BLIN
+company_BLKB
+company_BLLI_PK
+company_BMC
+company_BMI
+company_BNX
+company_BOSC
+company_BPHX
+company_BR
+company_BRCD
+company_BRCM
+company_BRKR
+company_BRKS
+company_BSFT
+company_BSQR
+company_BSYBY_PK
+company_BT
+company_BTM
+company_BTUI
+company_BVSN
+0.0212397 past: -0.00540361
+1
+2
+3
+4
+5
+YES 2011-10-05: 9.35 2011-09-30: 8.71 macd 0.224204 round 0
+company_BWEBF_PK
+company_BYI
+company_CA
+company_CABLF_OB
+company_CADV_OB
+company_CALD
+company_CALL
+company_CALP
+company_CALX
+company_CAMP
+company_CAMT
+0.127121 past: -0.191087
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 2.25
+company_CAVM
+company_CBB
+company_CBEY
+0.0137327 past: -0.000657076
+1
+2
+3
+4
+5
+6
+YES 2011-10-05: 7.6 2011-09-29: 7.32 macd 0.137328 round 0
+company_CBR
+company_CCI
+company_CCIH
+company_CCMP
+company_CCOI
+company_CCTR_PK
+company_CCUR
+company_CDCS
+company_CDMAD_PK
+company_CDNS
+0.0299192 past: -0.00670292
+1
+2
+3
+4
+YES 2011-10-10: 9.84 2011-10-06: 9.52 macd 0.103271 round 0
+company_CEHC_OB
+company_CEL
+company_CERN
+company_CEVA
+company_CGNX
+company_CGUD_PK
+company_CHA
+company_CHINA
+company_CHKP
+company_CHL
+company_CHT
+0.00948533 past: -0.0021562
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-12: 32.66
+company_CHU
+company_CHYR
+company_CICI_OB
+company_CICN_OB
+company_CIEN
+company_CIMT
+company_CIRC_OB
+company_CIS
+company_CITC_PK
+company_CKSW
+company_CLAI_PK
+company_CLFD
+0.0531758 past: -0.0167949
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 5.66
+company_CLKZ_PK
+company_CLRO
+company_CLS
+company_CLSI_PK
+company_CLTY_PK
+company_CLTZF_PK
+company_CLWR
+company_CMPD_PK
+company_CMRO_PK
+company_CMTL
+company_CMVT
+company_CNIT
+company_CNLG_PK
+company_CNQR
+company_CNSL
+company_CNTF
+company_CNUV_PK
+company_CNVO
+company_CODE
+company_COGO
+company_COHR
+company_COHU
+0.0213841 past: -0.0388885
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-20: 12.2
+company_COMV
+company_COOL
+company_COPY_OB
+company_COVR
+0.0312628 past: -0.0142178
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 1.72
+company_CPHD
+company_CPSH_OB
+company_CPSI
+company_CPWR
+company_CPYE_PK
+company_CRAY
+company_CRDS
+0.0155513 past: -0.00798592
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 5.02
+company_CREE
+company_CRM
+company_CRNT
+0.16236 past: -0.205686
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 10.44
+company_CRUS
+company_CRYP
+company_CSC
+0.000759366 past: -0.146878
+1
+2
+3
+4
+5
+YES 2011-10-10: 29.75 2011-10-05: 28.09 macd 0.366557 round 0
+company_CSCO
+0.00107988 past: -0.0228384
+1
+2
+3
+4
+5
+6
+7
+YES 2011-10-06: 16.75 2011-09-29: 15.85 macd 0.410695 round 0
+company_CSGS
+company_CSIQ
+company_CSLR_PK
+company_CSOD
+0.0397156 past: -0.0910047
+1
+2
+YES 2011-10-06: 14.55 2011-10-04: 13.59 macd 0.186498 round 0
+company_CSPI
+company_CSUN
+company_CTCH
+company_CTEL
+0.371074 past: -0.161081
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 9.66
+company_CTFO
+company_CTGX
+company_CTIG_PK
+company_CTL
+company_CTMMA_PK
+company_CTORF_OB
+company_CTS
+company_CTSH
+company_CTXS
+company_CUB
+company_CVG
+company_CVLT
+company_CY
+0.0711456 past: -0.0420564
+1
+YES 2011-10-21: 18.59 2011-10-20: 17.57 macd 0.142846 round 0
+company_CYBE
+company_CYDE
+company_CYMI
+company_CYOU
+company_DAIO
+company_DASTY_PK
+company_DATA_PK
+company_DATE
+company_DCM
+company_DCMT_OB
+company_DDD
+company_DDDC_PK
+company_DDIC
+company_DELL
+0.0205097 past: -0.0102899
+1
+2
+3
+4
+YES 2011-10-10: 16.1 2011-10-06: 15.55 macd 0.0999846 round 0
+company_DEMO_PK
+company_DEWY_OB
+company_DGI
+company_DGII
+company_DGLY
+company_DGTC_OB
+company_DIET
+company_DIOD
+company_DIRI_OB
+company_DITC
+company_DLB
+company_DLEXY_PK
+company_DLGC
+company_DMAN
+0.0134592 past: -0.0139371
+1
+2
+3
+YES 2011-10-10: 7.1 2011-10-07: 6.78 macd 0.0348343 round 0
+company_DMD
+company_DMRC
+company_DNACF_PK
+company_DNB
+company_DOX
+company_DPAC_PK
+company_DPW
+company_DQ
+0.0828024 past: -0.072884
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.66
+company_DRAM
+company_DRCO
+0.784906 past: -1.1556
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 9.96
+company_DRIV
+company_DRV
+company_DRWI
+2.37645 past: -0.57073
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.4
+company_DSGX
+company_DSNY_OB
+company_DSPG
+0.115846 past: -0.0140992
+1
+YES 2011-10-28: 6.43 2011-10-27: 6.2 macd 0.274246 round 0
+company_DST
+company_DSTI
+company_DTEGY_PK
+company_DTLK
+company_DTSI
+company_DVNTF_OB
+company_DVOX
+company_DWCH
+company_DYSL
+company_EBIX
+company_ECEC_PK
+company_EDGR
+0.00455537 past: -0.00161604
+1
+YES 2011-10-28: 0.9 2011-10-27: 0.87 macd 0.0115988 round 0
+company_EDGW
+company_EFII
+company_EFUT
+company_EGAM_PK
+company_EGAN
+company_EGHT
+company_EGOV
+company_ELCO_PK
+company_ELLI
+company_ELNK
+0.00489706 past: -0.000992293
+1
+2
+YES 2011-10-27: 7.15 2011-10-25: 6.54 macd 0.0593828 round 0
+company_ELON
+company_ELSE
+0.141932 past: -0.0207374
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.66
+company_ELST_OB
+company_ELT
+company_ELTK
+company_ELX
+company_EMAN
+0.0294119 past: -0.041806
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 4.42
+company_EMC
+company_EMKR
+company_ENA
+company_ENAB_PK
+company_ENER
+company_ENHT_PK
+company_ENTG
+0.0499495 past: -0.00397033
+1
+YES 2011-10-06: 7.2 2011-10-05: 6.99 macd 0.0980977 round 0
+company_ENTR
+0.16932 past: -0.187414
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 6.04
+company_EONC
+company_EPAY
+company_EPIQ
+company_EQIX
+company_ERMS_OB
+company_ERTS
+company_ESE
+company_ESIC
+company_ESP
+company_ETAK_OB
+company_ETEC_PK
+company_ETLO_PK
+company_EVOL
+company_EXAR
+0.264748 past: -0.491613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 6.21
+company_EXNT_OB
+company_EXTR
+company_EZCH
+0.560805 past: -0.255085
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 37.1
+company_FALC
+company_FARO
+company_FCON_PK
+company_FCS
+0.0114804 past: -0.147677
+1
+YES 2011-10-27: 15.27 2011-10-26: 14.58 macd 0.150624 round 0
+company_FDS
+company_FEIC
+company_FEIM
+company_FFIV
+company_FFN
+company_FIND_OB
+company_FIO
+company_FIRE
+0.0498614 past: -0.0436934
+1
+YES 2011-10-06: 27.95 2011-10-05: 26.99 macd 0.119011 round 0
+company_FJTSY_PK
+company_FKWL_OB
+company_FLDM
+0.0102517 past: -0.0973917
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-26: 14.53
+company_FLEX
+company_FLTT_PK
+company_FNDT
+company_FNSR
+company_FORM
+company_FORTY
+company_FRP
+company_FSII
+company_FSL
+company_FSLR
+company_FSNN_OB
+company_FSTW_PK
+company_FTE
+company_FTNT
+company_FTR
+company_FTWR
+company_FULO_OB
+company_GAME
+0.0391928 past: -0.00546537
+1
+YES 2011-10-05: 4.14 2011-10-04: 3.63 macd 0.0954526 round 0
+company_GAXC_OB
+company_GCMI_PK
+company_GCOM
+company_GEEK_OB
+company_GEOY
+company_GGOX_OB
+company_GIB
+0.00104285 past: -0.178948
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 20.92
+company_GIGA
+company_GIGM
+company_GILT
+company_GKNT
+company_GLOW_OB
+company_GLUU
+company_GLW
+company_GMPW_PK
+company_GNCMA
+company_GOJO_OB
+company_GOOG
+company_GRMN
+company_GRRF
+company_GRVY
+company_GSAT
+company_GSB
+company_GSIG
+company_GSIT
+company_GSOL
+company_GTAT
+company_GTLT_OB
+company_GUID
+company_GVP
+company_HAUP
+company_HAXS_PK
+company_HEII_PK
+company_HICKA_PK
+company_HILL
+company_HIMX
+company_HITT
+company_HLIT
+company_HLTOY_PK
+company_HOKU
+company_HPQ
+company_HRS
+0.0979751 past: -0.0108819
+1
+YES 2011-10-06: 35.99 2011-10-05: 34.92 macd 0.181769 round 0
+company_HSFT
+0.248696 past: -0.0883528
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 13.01
+company_HSTM
+0.0148731 past: -0.0911821
+1
+2
+3
+4
+5
+6
+7
+YES 2011-10-11: 13.1 2011-10-04: 12.63 macd 0.246301 round 0
+company_HSWI
+0.106529 past: -0.0339446
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 2.82
+company_HTCH
+company_HTCO
+0.000667849 past: -0.0240653
+1
+2
+3
+4
+5
+6
+YES 2011-10-27: 11.87 2011-10-21: 10.84 macd 0.0418475 round 0
+company_HURC
+company_HUTC_OB
+company_IAGI_PK
+company_IAIC_OB
+company_IBM
+company_IBSS_PK
+company_ICAD
+company_ICCO_PK
+company_ICGE
+0.0143708 past: -0.0454679
+1
+2
+3
+YES 2011-10-24: 10.99 2011-10-21: 10.52 macd 0.0638699 round 0
+company_ICRD_OB
+company_IDCC
+company_IDIBQ_PK
+company_IDN
+company_IDSY
+company_IDT
+company_IDTI
+company_IEC
+0.0026113 past: -0.0385849
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 5.93
+company_IFSC_PK
+company_IGLD
+company_IGOI
+company_IGT
+0.0134584 past: -0.0124534
+1
+2
+3
+4
+5
+6
+7
+YES 2011-10-06: 15.53 2011-09-29: 14.89 macd 0.444885 round 0
+company_IGTE
+company_IHS
+company_IIG
+company_IIJI
+company_IIT
+company_IIVI
+company_IKAN
+company_IL
+company_IMMR
+company_IMN
+company_IMOS
+company_IMTL_PK
+company_IN
+company_INAP
+company_INFA
+company_INFN
+company_INFY
+company_ININ
+company_INIS_OB
+company_INIV_PK
+company_INNU_PK
+company_INOD
+company_INOW_PK
+company_INPH
+company_INS
+company_INSP
+company_INSQ_PK
+company_INTC
+company_INTT
+company_INTU
+company_INTZ_OB
+company_INVA_OB
+company_INVC_PK
+company_INVE
+company_INXN
+company_IO
+company_IPAS
+company_IPGP
+company_IPHI
+company_IRDM
+company_IRF
+company_IRIS
+company_IRM
+company_IRSN_OB
+company_ISCR_PK
+company_ISEC_OB
+company_ISIL
+company_ISMAY_PK
+company_ISNS
+company_ISS
+0.00623165 past: -0.0841384
+1
+YES 2011-10-06: 6.98 2011-10-05: 6.76 macd 0.0711482 round 0
+company_ISSC
+company_ISSI
+company_ISTC_PK
+company_IT
+company_ITI
+company_ITKG_OB
+company_ITRI
+company_ITRN
+company_ITSI_OB
+company_IVAC
+company_IVOI_PK
+company_IWEB_OB
+company_IWSY_PK
+company_IXYS
+company_JASO
+0.0556408 past: -0.105867
+1
+YES 2011-10-27: 2.33 2011-10-26: 2.19 macd 0.263728 round 0
+company_JBL
+0.0133533 past: -0.0796325
+1
+2
+3
+4
+5
+YES 2011-10-10: 20.15 2011-10-05: 18.7 macd 0.244136 round 0
+company_JCDA
+company_JCOM
+company_JCS
+company_JDAS
+company_JDSU
+company_JGPK_OB
+company_JKHY
+company_JNGW
+company_JNPR
+company_JRJC
+company_JST
+company_KBALB
+company_KBAS_PK
+company_KEM
+company_KEQU
+company_KEYN
+company_KEYW
+company_KIWB_OB
+company_KKPNY_PK
+company_KLAC
+company_KLIC
+company_KLMK_PK
+company_KNM
+company_KNOL
+company_KNXA
+company_KONE
+company_KONG
+0.00670105 past: -0.0231423
+1
+YES 2011-09-30: 4.03 2011-09-29: 3.84 macd 0.0253 round 0
+company_KOPN
+0.0349683 past: -0.267515
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 4.11
+company_KT
+company_KTCC
+company_KVHI
+company_KYO
+company_LAVA
+company_LCRY
+company_LDK
+company_LDR
+company_LEAP
+company_LEDR
+company_LEDS
+company_LGL
+company_LIME
+company_LIVE
+company_LLTC
+company_LNKD
+company_LOCM
+company_LOGC_PK
+company_LOGM
+company_LOOK
+company_LORL
+company_LPHCQ_PK
+company_LPL
+company_LPTH
+company_LQDT
+company_LRAD
+company_LRCX
+company_LSCC
+company_LSI
+company_LTON
+company_LTRX
+0.0874222 past: -0.606534
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 1.42
+company_LTTC_OB
+company_LTXC
+company_LVLT
+0.411271 past: -0.16655
+1
+2
+3
+4
+5
+6
+YES 2011-10-20: 23.1 2011-10-14: 1.65 macd 4.79716 round 4
+company_LVWR_PK
+company_LXK
+company_LYRI_OB
+company_MAIL
+company_MANH
+company_MANT
+company_MATR
+company_MBND
+company_MBT
+company_MCHP
+company_MCRL
+company_MCRS
+company_MCZ
+company_MDAS
+company_MDRX
+company_MDSO
+0.0698237 past: -0.0346116
+1
+2
+3
+4
+5
+6
+7
+YES 2011-10-11: 16.95 2011-10-04: 16.25 macd 0.345441 round 0
+company_MEAD
+company_MEAS
+company_MEDH
+company_MEDW
+company_MEI
+company_MEMS
+company_MENT
+0.0364769 past: -0.00573678
+1
+2
+3
+4
+5
+YES 2011-10-11: 10.26 2011-10-06: 9.9 macd 0.142104 round 0
+company_MERU
+company_MFCO_OB
+company_MFLX
+0.0361007 past: -0.0207626
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-09-29: 20.3
+company_MGIC
+company_MHME_PK
+company_MIPS
+company_MITK
+company_MITL
+company_MKTG
+0.0490789 past: -0.0291057
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 10.18
+company_MLNK
+company_MLNX
+company_MLOG_PK
+company_MMI
+company_MMRF_OB
+company_MMUS
+company_MNDO
+company_MOBI
+company_MOCO
+company_MOLX
+company_MORN
+company_MOSY
+company_MOTR
+company_MOVE
+company_MPAD_OB
+company_MPWR
+company_MRCY
+0.0399464 past: -0.0296156
+1
+2
+3
+4
+YES 2011-10-04: 12.62 2011-09-30: 11.5 macd 0.285263 round 0
+company_MRGE
+company_MRVL
+company_MSCC
+company_MSCI
+company_MSFT
+company_MSI
+company_MSPD
+company_MSTR
+company_MTE
+company_MTMC_PK
+company_MTSC
+company_MTSL
+company_MTSN
+company_MTVO_PK
+company_MU
+company_MVIS
+company_MX
+company_MXIM
+company_MXL
+company_MXT
+company_MXWL
+company_MYTAY_PK
+company_N
+company_NANO
+1.0107 past: -0.00385265
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 17.06
+company_NATI
+company_NCIT
+company_NCR
+company_NCTY
+company_NEI
+company_NEOM_OB
+company_NETC
+company_NETL
+company_NEWN
+company_NEWP
+company_NEXS
+company_NICE
+company_NINE
+company_NLSN
+company_NLST
+company_NMRX
+company_NMXC_OB
+company_NOIZ
+company_NOK
+company_NPDTE_OB
+company_NPSNY_PK
+company_NPTN
+company_NQ
+company_NSIT
+company_NSR
+company_NSYS
+company_NTAP
+company_NTCT
+company_NTDOF_PK
+company_NTE
+company_NTES
+company_NTFY_PK
+company_NTGR
+company_NTL
+company_NTLNF_OB
+company_NTLS
+company_NTT
+company_NTWK
+company_NUAN
+company_NUBL_PK
+company_NULM_OB
+company_NVDA
+company_NVEC
+company_NVLS
+company_NVTL
+company_NWBD_PK
+company_NWK
+company_NWMT_PK
+company_NXPI
+company_NXPSQ_PK
+company_NZT
+0.0393181 past: -0.0931455
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 10.41
+company_OBAS
+company_OCLR
+company_OCZ
+company_OESX
+company_OIIM
+company_OMCL
+0.186953 past: -0.0771583
+1
+2
+YES 2011-10-27: 16.82 2011-10-25: 15.78 macd 0.981217 round 0
+company_OMCM_OB
+company_OMTL_PK
+company_ONNN
+0.025353 past: -0.018864
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 7.82
+company_ONSM
+company_OPLK
+company_OPNT
+company_OPTI_OB
+company_OPWV
+company_OPXT
+company_ORBC
+company_ORBK
+company_ORBT
+company_ORCC
+company_ORCL
+company_ORCT
+company_ORFR_OB
+company_OSIS
+company_OTEX
+company_OTIV
+company_OTT
+company_OVRL
+company_OVTI
+company_OYOG
+company_PANL
+company_PCCWY_PK
+company_PCIR_PK
+company_PCS
+company_PCTI
+company_PCYG
+company_PCYS_PK
+company_PDFS
+company_PEGA
+company_PGI
+company_PHI
+company_PHPG_OB
+company_PIMO_OB
+company_PKE
+company_PKT
+company_PLAB
+company_PLCM
+company_PLNR
+company_PLT
+company_PLUS
+company_PLXS
+company_PLXT
+company_PMCS
+company_PMTC
+0.020364 past: -0.0669066
+1
+2
+3
+4
+YES 2011-10-10: 17.26 2011-10-06: 16.51 macd 0.182087 round 0
+company_PNS
+company_POWI
+company_PRCP
+company_PRFT
+0.0517321 past: -0.010252
+1
+YES 2011-10-06: 7.61 2011-10-05: 7.27 macd 0.123275 round 0
+company_PRGS
+company_PRKR
+company_PRO
+company_PROJ
+company_PRXM_PK
+company_PSCO_PK
+company_PSEM
+company_PSID_OB
+company_PSOF
+0.188319 past: -0.0275144
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 2.18
+0.188319 past: -0.0275144
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 2.18
+company_PSSR_PK
+company_PT
+company_PTI
+company_PTIX
+company_PTNR
+0.0812358 past: -0.00400376
+1
+2
+YES 2011-10-06: 10.41 2011-10-04: 10.04 macd 0.192253 round 0
+company_PTSC_OB
+company_PULS
+company_PVSW
+company_PWAV
+company_PWEB_PK
+company_PWER
+company_PWRD
+company_PXLW
+company_QADA
+company_QBAK
+company_QCOM
+company_QIHU
+company_QLGC
+company_QLIK
+company_QPSA
+company_QSFT
+company_QSII
+company_QSND_PK
+company_QTM
+company_QUIK
+company_QXM
+company_RATE
+company_RAVN
+company_RAX
+company_RBCN
+company_RCI
+company_RDA
+company_RDCM
+company_RDVWF_OB
+company_RDWR
+company_REDF
+company_RENN
+0.50146 past: -0.153767
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 7.02
+company_RFIL
+0.354923 past: -0.343945
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.24
+company_RFMD
+company_RFMI
+company_RHT
+company_RHXI_PK
+company_RIMG
+company_RITT
+company_RMBS
+company_RMTR
+company_RNET
+company_RNIN
+company_RNOW
+company_RNWK
+company_ROP
+company_ROSYY_PK
+company_ROVI
+company_RP
+company_RPID_PK
+company_RPTN_PK
+company_RRST
+company_RST
+0.13465 past: -0.0881802
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 9.94
+company_RSTI
+0.116835 past: -0.0408119
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 27.19
+company_RSYS
+company_RTEC
+company_RTLX
+company_RVBD
+company_RVSN
+company_RWC
+company_S
+company_SAAS
+company_SABA
+company_SAJA_OB
+company_SANM
+company_SAP
+company_SAPE
+company_SATC
+company_SATS
+company_SAYCY_PK
+company_SBAY_PK
+company_SBJX_PK
+company_SCKT
+company_SCMR
+company_SCMWY_PK
+company_SCNWF_PK
+company_SCON
+company_SCSC
+company_SCUC_PK
+company_SDNA_PK
+company_SDON_OB
+company_SEAC
+company_SFOR_OB
+company_SFSF
+0.042043 past: -0.000869789
+1
+YES 2011-10-13: 25.59 2011-10-12: 24.84 macd 0.0630938 round 0
+company_SFUN
+company_SGAMY_PK
+company_SGI
+company_SGK
+0.00653896 past: -0.0710383
+1
+YES 2011-10-26: 11.96 2011-10-25: 11.16 macd 0.125021 round 0
+company_SGMA
+company_SGPYY_PK
+company_SHEN
+company_SHOR
+company_SI
+company_SIFY
+company_SIGM
+company_SILC
+company_SIMC_PK
+company_SIMG
+company_SIMO
+company_SINA
+company_SKM
+company_SLAB
+company_SLH
+company_SLI
+company_SLNM_PK
+company_SLP
+company_SLTC
+company_SMCI
+5.47289 past: -0.475059
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 16.31
+company_SMI
+company_SMIT
+company_SMRL_PK
+company_SMSC
+company_SMSI
+company_SMTC
+company_SMTX
+0.0299584 past: -0.0176953
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-25: 2.16
+company_SNCR
+0.111834 past: -0.0157225
+1
+2
+3
+4
+5
+6
+YES 2011-10-11: 25.03 2011-10-05: 23.87 macd 0.943474 round 0
+company_SNDA
+company_SNDK
+company_SNDTF_OB
+company_SNPS
+company_SODI_OB
+company_SOFO
+company_SOFT_PK
+company_SOHU
+company_SOL
+0.193286 past: -0.220975
+1
+YES 2011-10-28: 2.6 2011-10-27: 2.44 macd 0.700174 round 0
+company_SONE
+0.121902 past: -0.421082
+1
+2
+3
+4
+5
+6
+YES 2011-10-27: 9.84 2011-10-21: 9.55 macd 4.21853 round 4
+company_SONS
+company_SPA
+company_SPDE_PK
+company_SPHE_PK
+company_SPIR
+company_SPNS
+0.00445273 past: -0.0333809
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 3.65
+company_SPRD
+company_SPRT
+company_SPWRA
+company_SQI
+company_SQNS
+company_SREV
+company_SRMC_OB
+company_SRSL
+company_SSNC
+company_SSYS
+company_STEC
+company_STM
+company_STP
+company_STRM
+company_STRN
+company_STV
+company_STX
+company_SUPX
+company_SUQU_PK
+company_SURW
+company_SWI
+company_SWKS
+company_SXCI
+company_SYKE
+company_SYMC
+company_SYMM
+company_SYNA
+company_SYNT
+company_SYPR
+company_SYTE_OB
+company_SYX
+company_T
+company_TACT
+company_TBIO_OB
+company_TBOW
+company_TBUS
+company_TCCO
+company_TCL
+company_TCNH_OB
+company_TCX
+company_TDC
+company_TDS
+company_TEF
+company_TEL
+company_TELNF_PK
+company_TEO
+company_TER
+company_TGAL
+company_THQI
+company_TI
+company_TIBX
+0.0428299 past: -0.0100853
+1
+2
+3
+4
+5
+6
+YES 2011-10-24: 28.01 2011-10-18: 27.08 macd 0.139906 round 0
+company_TIER
+0.0138456 past: -1.56865
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 3.91
+company_TIGR
+company_TIK
+company_TISA
+company_TITAF_OB
+company_TKAGY_PK
+company_TKC
+company_TKLC
+0.0350937 past: -0.118525
+1
+YES 2011-10-19: 9.21 2011-10-18: 7.5 macd 0.194365 round 0
+company_TKOI_OB
+company_TLAB
+company_TLEO
+company_TLK
+company_TLKGY_PK
+company_TLLE_OB
+company_TLSRP_PK
+company_TMX
+company_TNAV
+company_TNDM
+company_TNE
+company_TNGO
+company_TNS
+company_TPPPF_PK
+company_TQNT
+company_TRAC_PK
+company_TRAK
+0.161464 past: -0.0355552
+1
+YES 2011-10-06: 16.39 2011-10-05: 15.65 macd 0.346152 round 0
+company_TRI
+company_TRID
+company_TRMB
+company_TRNS
+0.0483865 past: -0.00159887
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-06: 11.95
+company_TRT
+company_TSEM
+company_TSL
+company_TSM
+company_TSRA
+0.0893332 past: -0.545786
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 14.88
+company_TSRI
+company_TST
+0.0172114 past: -0.0264094
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 1.96
+company_TSTC
+1.83365 past: -0.574995
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 5.94
+company_TSTRQ_PK
+company_TSU
+company_TSYS
+company_TTGT
+company_TTMI
+company_TTWO
+0.28233 past: -0.042402
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 15.8
+company_TU
+company_TUDO
+company_TWER
+company_TWTC
+company_TXCC
+company_TXN
+company_TYL
+company_TYPE
+0.0568152 past: -0.0091879
+1
+2
+YES 2011-10-06: 12.21 2011-10-04: 11.24 macd 0.223258 round 0
+company_TZOO
+company_UBIX_PK
+company_UBNT
+company_UCTT
+0.159709 past: -0.36641
+1
+YES 2011-10-27: 5.85 2011-10-26: 5.12 macd 0.794649 round 0
+company_UDWK_OB
+company_UIS
+company_ULTI
+0.0739857 past: -1.06068
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-26: 60.25
+company_UMC
+company_UNDT_OB
+company_UNLA_OB
+company_UNTK
+0.0332446 past: -0.430915
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 4.8
+company_USM
+company_USMO
+company_UTEK
+company_UTSI
+company_VCLK
+company_VCST_OB
+company_VCSY_OB
+company_VDSI
+company_VECO
+company_VELT
+0.0994909 past: -0.0289335
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 8.47
+company_VERA_PK
+company_VG
+company_VHC
+company_VICR
+company_VIDE
+company_VII
+company_VIMC
+company_VIP
+0.0253121 past: -0.0285341
+1
+YES 2011-10-06: 9.78 2011-10-05: 9.44 macd 0.0703285 round 0
+company_VIT
+0.16755 past: -0.0458344
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-28: 12.99
+company_VIV
+company_VLDI_PK
+company_VLTR
+0.0243322 past: -0.112016
+1
+2
+3
+4
+5
+YES 2011-10-24: 23.48 2011-10-19: 22.18 macd 0.479077 round 0
+company_VMII_PK
+company_VMW
+company_VNET
+company_VOCS
+0.00421256 past: -0.00899335
+1
+2
+3
+4
+5
+6
+YES 2011-10-05: 18.13 2011-09-29: 17.09 macd 0.431133 round 0
+company_VOD
+company_VOYT_PK
+company_VPF
+company_VPG
+company_VRCC_PK
+company_VRNG
+0.464238 past: -1.55197
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-26: 1.52
+company_VRNT
+company_VRSN
+company_VRTU
+company_VRYAF_PK
+company_VSAT
+company_VSEA
+company_VSH
+0.0620661 past: -0.0164273
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 11.34
+company_VSNT
+company_VTRO
+company_VTSS
+company_VZ
+company_WAVE_PK
+company_WAVX
+company_WBMD
+company_WBSN
+company_WDC
+company_WEBM
+company_WEX
+company_WFR
+company_WGA
+company_WGMI_OB
+company_WIFI
+company_WIN
+company_WIT
+company_WNYN_OB
+company_WPCS
+company_WQNI_PK
+company_WRLS
+company_WSTL
+company_WSTMF_OB
+company_WTKWY_PK
+company_WTT
+company_WWVY
+company_WWWW
+company_WZE
+company_XATA
+company_XDSL_OB
+company_XFN
+company_XLNX
+company_XRTX
+company_XXIA
+0.0345119 past: -0.096907
+1
+2
+3
+YES 2011-10-24: 10.59 2011-10-21: 10.13 macd 0.151205 round 0
+company_YGE
+company_YHOO
+company_YNDX
+0.0115504 past: -0.23958
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+NO 2011-10-27: 27.74
+company_YOKU
+company_YTEC
+company_ZANE_PK
+company_ZAOFF_PK
+company_ZBRA
+company_ZHNE
+company_ZIGO
+company_ZIXI
+company_ZMTP_OB
+company_ZOOG
+company_ZOOM
+company_ZSTN
+ema22
+ema5
+ema_weekly_window
+macd22
+macd5
+macd_weekly_window
+volume5050
+volume5days
+volume_weekly_window
+Up : 56 Percent Up 0.47863247863247865 Down: 61 Percent Down: 0.5213675213675214
