@@ -26,7 +26,9 @@ def get_industries(sector):
 		if len(industry) == 2:
 			industry['id'] = int(industry['id'])
 			industry['name'] = industry['name'].encode('ascii', errors='ignore')
-			cur.execute('INSERT INTO industries (yahoo_id, name) VALUES(%(num)i, "%(name)s")' %{'num': industry['id'], 'name': industry['name']})
+			industry_count = cur.execute('SELECT name FROM industries WHERE name LIKE %s' %(industry['name']))
+			if (industry_count == 0)
+				cur.execute('INSERT INTO industries (yahoo_id, name) VALUES(%(num)i, "%(name)s")' %{'num': industry['id'], 'name': industry['name']})
 			get_companies(industry['id'], cur)
 	
 	cur.close()
@@ -51,17 +53,31 @@ def	get_companies(industry, cur):
 			company['name'] = company['name'].encode('ascii', errors='ignore')
 			print company['name']
 			company['symbol'] = company['symbol'].replace('.', '_')
-			cur.execute('INSERT INTO companies (name, symbol) VALUES (%s, %s)', (company['name'], company['symbol']))
+			
+			company_count = cur.execute('SELECT name FROM industries WHERE name LIKE %s' %(industry['name']))
+			if (company_count == 0)
+				cur.execute('INSERT INTO companies (name, symbol) VALUES (%s, %s)', (company['name'], company['symbol']))
+
 			get_historical_prices(company['symbol'], cur, startdate.replace('-', ''), str(enddate)[:10].replace('-', ''))
 	
 
-#TODO: I think i'm requesting too much data from YQL. That's the only thing that would explain why i get None results. Will switch back to old URL
+#I think i'm requesting too much data from YQL. That's the only thing that would explain why i get None results. Will switch back to old URL
 def get_historical_prices(symbol, cur, start_date, end_date):
 	"""
 	Get historical prices for the given ticker symbol.
 	Date format is 'YYYYMMDD'
 	Returns a nested list.
 	"""
+	rowcount = cur.execute('SELECT date FROM company_%s ORDER BY date DESC LIMIT 1' %(symbol)) # %(symbol))
+	rowcount = cur.execute('SELECT date FROM company_%s ORDER BY date DESC LIMIT 1' %(symbol)) # %(symbol))
+	if (rowcount == 1):
+		dates = cur.fetchall()
+		start_date = dates[0][0].isoformat()[:10].replace('-', '')
+	else:
+		file = open("db_scripts/create_company.template.sql");
+		cur.execute(file.read() %{'symbol': symbol})
+		file.close()
+
 	url = 'http://ichart.yahoo.com/table.csv?s=%s&' % symbol + \
 		'd=%s&' % str(int(end_date[4:6]) - 1) + \
 		'e=%s&' % str(int(end_date[6:8])) + \
@@ -71,13 +87,11 @@ def get_historical_prices(symbol, cur, start_date, end_date):
 		'b=%s&' % str(int(start_date[6:8])) + \
 		'c=%s&' % str(int(start_date[0:4])) + \
 		'ignore=.csv'
+	sys.exit(0)
 		
 	days = urllib.urlopen(url).readlines()
 	data = [day[:-2].split(',') for day in days]
 	
-	file = open("db_scripts/create_company.template.sql");
-	cur.execute(file.read() %{'symbol': symbol})
-	file.close()
 
 	for stock in data[1:]:
 		if len(stock) == 7:

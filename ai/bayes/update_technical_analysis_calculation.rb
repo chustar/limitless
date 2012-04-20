@@ -51,7 +51,8 @@ rs.each_hash { |h|
 																			tech = con.query("UPDATE #{table} set short_ema=#{sema}, long_ema=#{lema}, macd=#{macd}, signal_line=#{signal}, histogram=#{hist} WHERE date='#{row}'") 
 #																			puts "#{table} #{row}  short ema: #{sema} long ema: #{lema} macd: #{macd} signal line: #{signal} histogram: #{hist}"
 																}
-							}
+								end
+								}
 
 
 con.close

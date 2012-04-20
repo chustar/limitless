@@ -3,6 +3,8 @@ import java.io.FileReader as FileReader
 import java.lang.StringBuffer as StringBuffer
 import java.lang.Boolean as Boolean
 
+sys.path.append('/usr/share/java/weka.jar')
+
 import weka.core.Instances as Instances
 import weka.classifiers.trees.J48 as J48
 import weka.classifiers.Evaluation as Evaluation
@@ -12,7 +14,7 @@ import weka.core.SerializationHelper as SerializationHelper
 
 # check commandline parameters
 if (not (len(sys.argv) == 3)):
-    print "Usage: UsingJ48Ext.py <ARFF-file>"
+    print "Usage: weka.py <ARFF-file>"
     sys.exit()
 
 file = FileReader(sys.argv[1])
