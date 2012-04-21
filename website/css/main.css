@@ -7,7 +7,9 @@ h1 {
 	margin-left: 10px;
 	font-family: 'Jura', sans-serif;
 }
-
+h2 {
+	font-size: 44px;
+}
 #nav {
   background-color: #e5e5e6;
 	width: 600px;
@@ -24,20 +26,29 @@ h1 {
 
 
 #header {
-  background-color: #e5e5e6;  
+  background-color: black;  
+	padding-top: 80px;
+	padding-bottom: 30px;
+	background-color: black;
+	color: white;
+	margin-bottom: 25px;
+}
+#header h1 {
+	font-size: 17em;
+	text-align: center;
 }
 
 #title {
 }
 
 #stock_graph {
-background-color: #8FC73E;
 }
 
 #ai_data {
-background-color: #8FC73E;
 }
-
+#ai_data > h1 {
+	margin-bottom: 15px;
+}
 
 div.spacer {  
     background-color: #8FC73E;  
@@ -45,10 +56,43 @@ div.spacer {
 } 
 
 div#footer {  
-    background-color: #e5e5e6;  
-		height: 100px;
+  background-color: black;  
+font-size: 20px;
+	height: 85px;
+	color: white;
 } 
- 
+
+#total_prob {
+	font-size: 55px;
+}
+
+#total_prob div {
+	margin-bottom: 55px;
+	margin-top: 45px;
+}
+
+#total_up {
+	font-size: 100px;
+vertical-align: top;
+}
+
+.bayesData {
+	font-size: 24px;
+}
+
+.bayesData  div {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#footercontent {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+} 
+#footercontent > div {
+	margin-bottom: 10px;
+}
 #stock {
 	width: 600px;
 }

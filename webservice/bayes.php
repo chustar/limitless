@@ -22,7 +22,7 @@ $stock = $_GET['stock'];
 //query statements for bayes analysis
 $sql_get_date = 'select date from company_' . strtoupper($stock) . ' ORDER BY date desc LIMIT 1';
 $sql_avg_volume = 'select avg_volume from companies where symbol=' . "'" . strtoupper($stock) . "'";
-$sql_stats = 'select * from bayes_prediction_22days';
+$sql_stats = 'select * from bayes_prediction';
 
 //get latest date for analysis
 $res = mysql_query($sql_get_date) or die(mysql_error());

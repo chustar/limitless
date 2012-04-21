@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" media="all" href="css/960.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="css/main.css" />
 		<!--<link href='http://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'>-->
 <script type="text/javascript" src="jquery.js"></script>
@@ -9,12 +10,13 @@
 <script type="text/javascript">
 var count = 0;
 var series = new Array();
-var stock = '<?= $_GET['stock'] ?>';
+var stock = '<?php  echo $_GET['stock'] ?>';
 //var stock = 'msft';
 var createChart = function() {
 	window.chart = new Highcharts.StockChart({
 		chart : {
-			renderTo : 'stock'
+			renderTo : 'stock',
+			width: 900
 		},
 		rangeSelector : {
 			selected : 4
@@ -59,7 +61,7 @@ $(function() {
 		  <script>
   
   $(document).ready(function(){
-    var stock = '<?= $_GET['stock'] ?>'; 
+    var stock = '<?php echo $_GET['stock'] ?>'; 
    // var stock = 'xata';
 		$.ajax({
         url: '../webservice/bayes.php',
@@ -105,8 +107,8 @@ $(function() {
         total_up = tmp_up;
         total_down = tmp_down;
         if(e || m || v) {
-          $('#total_up').html("Total Percent Rise: " + parseFloat(total_up*100).toFixed(2) + "%");
-          $('#total_down').html("Total Percente Drop: " + parseFloat(total_down*100).toFixed(2) + "%");
+          $('#total_up').html(parseFloat(total_up*100).toFixed(2) + "%");
+          $('#total_down').html(parseFloat(total_down*100).toFixed(2) + "%");
       
           if(parseFloat(total_up*100).toFixed(2) > parseFloat(total_down*100).toFixed(2) ) {
             $('#indicator').html('UP');
@@ -119,68 +121,66 @@ $(function() {
 		</script>
 	</head>
 	<body>
-		<div class="container_12">	
-			<div class="grid_12" id="header">
+			<div class="" id="header">
 				<h1 id="title">Limitless</h1>
 			</div>
+		<div class="container_12">	
 			<div class="clear spacer"></div> 
-			<div class="grid_8" id="stock_graph">
-			<h1 id="company_name"></h1>
-<!--
-				<div class="grid_8" id="nav">
-					<div class="grid_1 nav-box"><div class="grid_1 nav-item" >One</div> </div> 
-					<div class="grid_1 nav-box"><div class="grid_1 nav-item" >Two</div> </div>
-					<div class="grid_1 nav-box"><div class="grid_1 nav-item" >Three</div></div> 
-					<div class="grid_1 nav-box"><div class="grid_1 nav-item" >Four</div></div> 
-					<div class="grid_1 nav-box"><div class="grid_1 nav-item" >Five</div></div>
-				</div>
--->
-				<div class="clear spacer"></div> 
+			<div class="grid_12" id="stock_graph">
+			<h1>
+			<span id="company_name">
+			</span>
+			<span id="indicator"> </span>
+			</h1>
+	
+			<div class="clear spacer"></div> 
 
 				<div class="grid_8" id="stock">
 				</div>
 				<div class="grid_8">
-					VOLUME GRAPH
 				</div>
 				<div class="grid_8">
-					MACD GRAPH
 				</div>
 			</div>
-		  <div class="grid_4" id="ai_data">
- 			 <h1> Groovy Analysis </h1>
- 			 <div class="grid_4" id="indicator"> </div>
- 			   <div class="grid_4">
+		  <div class="grid_12" id="ai_data">
+ 			 
+ 			   <div class="grid_12" id="total_prob">
+ 			      <div class="">Total Probability Up: <span id="total_up"></span></div>
+ 			   </div>
+
+
+				<div class="grid_4 bayesData">
  			     <h2>EMA</h2>
- 			       <div class="grid_4" id="ema_msg"> NO INDICATOR </div>
- 			       <div class="grid_4" id="ema_up"></div>  
- 			       <div class="grid_4" id="ema_down"></div>
- 			       <div class="grid_4" id="ema"></div>
+ 			       <div class="" id="ema_msg"> NO INDICATOR </div>
+ 			       <div class="" id="ema_up"></div>  
+ 			       <div class="" id="ema_down"></div>
+ 			       <div class="" id="ema"></div>
  			   </div>
- 			   <div class="grid_4">
+ 			   <div class="grid_4 bayesData">
  			     <h2>MACD</h2>
- 			       <div class="grid_4" id="macd_msg"> NO INDICATOR</div>
- 			       <div class="grid_4" id="macd_up"></div> 
- 			       <div class="grid_4" id="macd_down"></div>
- 			       <div class="grid_4" id="macd"></div>
+ 			       <div class="" id="macd_msg"> NO INDICATOR</div>
+ 			       <div class="" id="macd_up"></div> 
+ 			       <div class="" id="macd_down"></div>
+ 			       <div class="" id="macd"></div>
  			   </div>
- 			   <div class="grid_4">
- 			     <h2>Volume</h2>
- 			       <div class="grid_4" id="volume_msg"> NO INDICATOR</div>
- 			       <div class="grid_4" id="volume_up"></div>  
- 			       <div class="grid_4" id="volume_down"></div>
- 			       <div class="grid_4" id="volume"></div>
- 			   </div>
- 			   <div class="grid_4">
- 			     <h2>Total Probability</h2>
- 			       <div class="grid_4" id="total_up"> No Analysis</div>
- 			       <div class="grid_4" id="total_down"></div>
+ 			   <div class="grid_3 bayesData">
+ 			     <h2>VOLUME</h2>
+ 			       <div class="" id="volume_msg"> NO INDICATOR</div>
+ 			       <div class="" id="volume_up"></div>  
+ 			       <div class="" id="volume_down"></div>
+ 			       <div class="" id="volume"></div>
  			   </div>
  			   <div class="clear spacer"></div>  
  			 </div>  
  			   
  			 <div class="clear spacer"></div> 
- 			 <div class="grid_12" id="footer">  
- 			 </div>
+	</div>
+ 	<div class="" id="footer">  
+<div id="footercontent">
+ 		<div> San Jose State University </div>
+		<div> Minh Nguyen </div>
+		<div> Chuma Nnaji </div>
+	</div>
 	</div>
 	</body>
 </html>
