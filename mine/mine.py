@@ -48,10 +48,12 @@ def	get_companies(industry, cur):
 	file = open("db_scripts/create_companies.sql");
 	cur.execute(file.read())
 	file.close()
+	log = open("/tmp/mine")
 	for company in res['query']['results']['industry']['company']:
 		if len(company) == 2:
 			company['name'] = company['name'].encode('ascii', errors='ignore')
 			print company['name']
+			log.write(company['name'])
 			company['symbol'] = company['symbol'].replace('.', '_')
 			
 			company_count = cur.execute('SELECT name FROM industries WHERE name LIKE %s' %(industry['name']))
