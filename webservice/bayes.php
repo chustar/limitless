@@ -31,6 +31,25 @@ while ($arr = mysql_fetch_array($res, MYSQL_ASSOC)) {
 }
 $sql_stock = 'select macd, histogram, volume from company_' . strtoupper($stock) . ' where date='. "'" . $cur_date . "'" .' ORDER BY date ASC';
 
+//echo $cur_date . " ";
+$p_date = split("-",$cur_date);
+$past = $p_date[0] . '-' . $p_date[1] . '-' . ($p_date[2].to_i - 1);
+//echo $past . " ";
+$sql_stock2 = 'select macd, histogram, volume from company_' . strtoupper($stock) . ' where date='. "'" . $past . "'" .' ORDER BY date ASC';
+
+$PMACD = '';
+$PEMA = '';
+
+$res = mysql_query($sql_stock2) or die(mysql_error());
+while ( $arr = mysql_fetch_array($res, MYSQL_ASSOC) ) {
+$PMACD = $arr['macd'];  	
+$PEMA = $arr['histogram'];  	
+}
+
+//echo $PMACD . " ";
+//echo $PEMA . " ";
+
+
 //get average volume to compare with latest company's statistics
 $res = mysql_query($sql_avg_volume) or die(mysql_error());
 while( $arr = mysql_fetch_array($res, MYSQL_ASSOC)) {
@@ -44,15 +63,17 @@ while( $arr = mysql_fetch_array($res, MYSQL_ASSOC)) {
 $avg_set = isset($avg_volume);
 $res = mysql_query($sql_stock) or die (mysql_error());
 while ( $arr = mysql_fetch_array($res, MYSQL_ASSOC)) {
+//	echo $arr['macd'] . " ";
+//	echo $arr['histogram'] . " ";
 	//ema analysis
-	if($arr['macd'] < 0.50 && $arr['macd'] > 0) {
+	if($PEMA < 0 && $arr['macd'] > 0) {
 		$all[] = "1";
 	} else {
 		$all[] = "0";
 	}
 
 	//macd analysis
-	if ($arr['histogram'] < 0.50 && $arr['histogram'] > 0) {
+	if ($PMACD < 0 && $arr['histogram'] > 0) {
 		$all[] = "1";
 	} else {
 		$all[] = "0";
