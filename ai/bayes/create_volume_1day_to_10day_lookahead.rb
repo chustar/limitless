@@ -2,7 +2,8 @@
 # Volume should not hold the volume but instead it should hold the VOLUME DIFFERENCE AND PRICE CLOSE VS OPENING DIFFERNCE
 require 'mysql'
 require 'date'
-
+$stdout = File.new('volumeTableCreation.out', 'w')
+    $stdout.sync = true
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
 
@@ -12,7 +13,7 @@ rs = con.query("truncate volume_weekly_window")
 rs = con.query('show tables')
 rs.each_hash { |h| 
 										
-										if h['Tables_in_limitless'] =~ /company_.*/
+										if h['Tables_in_limitless'] =~ /^company_.*/
                     q = con.query("select * from #{h['Tables_in_limitless']}")
                     table = h['Tables_in_limitless']
 										name = h['Tables_in_limitless'].split('_',2)

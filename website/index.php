@@ -19,7 +19,7 @@ var createChart = function() {
 			width: 900
 		},
 		rangeSelector : {
-			selected : 4
+			selected : 5
 		},
 		tooltip: {
 			pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b><br/>',
@@ -37,28 +37,28 @@ $(function() {
 	$.getJSON('../webservice/index.php?stock=' + stock, function(data) {
 		series.push({'name': stock, 'data': data });
 		count++;
-					if(count == 1) {
-						createChart();
-					}
-				});
+		if(count == 2) {
+			createChart();
+		}
+	});
 
-				$.getJSON('../webservice/predictions.php?stock=' + stock, function(data) {
-					series.push({'name': stock + ' Prediction', 'data': data });
-					count++;
-					if(count == 1) {
-						createChart();
-					}
-				});
+	$.getJSON('../webservice/predictions.php?stock=' + stock, function(data) {
+		series.push({'name': stock + ' Prediction', 'data': data });
+		count++;
+		if(count == 2) {
+			createChart();
+		}
+	});
 
-				$.getJSON('../webservice/company.php?stock=' + stock, function(data) {
-					document.title = data.name;
-					console.log(data);
-					$('#company_name').text(data.name);
-				});
+	$.getJSON('../webservice/company.php?stock=' + stock, function(data) {
+		document.title = data.name;
+		console.log(data);
+		$('#company_name').text(data.name);
+	});
 
-			});
-		</script>
-		  <script>
+});
+</script>
+<script>
   
   $(document).ready(function(){
     var stock = '<?php echo $_GET['stock'] ?>'; 
@@ -78,47 +78,47 @@ $(function() {
           total_up *= data['3']/100;
           total_down *= data['4']/100;
 
-          $("#ema_msg").html("");
-          $("#ema_up").html(parseFloat(data['3']).toFixed(2) + "% UP"); 
-          $("#ema_down").html(parseFloat(data['4']).toFixed(2) + "% DOWN"); 
-          
-        } 
-        if(m) {
-          
-          total_up *= data['5']/100;
-          total_down *= data['6']/100;
+			$("#ema_msg").html("");
+			$("#ema_up").html(parseFloat(data['3']).toFixed(2) + "% UP"); 
+			$("#ema_down").html(parseFloat(data['4']).toFixed(2) + "% DOWN"); 
 
-          $("#macd_msg").html("");
-          $("#macd_up").html(parseFloat(data['5']).toFixed(2) + "% UP");  
-          $("#macd_down").html(parseFloat(data['6']).toFixed(2) + "% DOWN");  
-        }
-        if(v) {
+		} 
+		if(m) {
 
-          total_up *= data['7']/100;
-          total_down *= data['8']/100;
+			total_up *= data['5']/100;
+			total_down *= data['6']/100;
 
-          $("#volume_msg").html("");
-          $("#volume_up").html(parseFloat(data['7']).toFixed(2) + "% UP");  
-          $("#volume_down").html(parseFloat(data['8']).toFixed(2) + "% DOWN");
-        }
-        var tmp_up, tmp_down; 
-        tmp_up = total_up/(total_up + total_down);
-        tmp_down = total_down/(total_up + total_down);
-        total_up = tmp_up;
-        total_down = tmp_down;
-        if(e || m || v) {
-          $('#total_up').html(parseFloat(total_up*100).toFixed(2) + "%");
-          $('#total_down').html(parseFloat(total_down*100).toFixed(2) + "%");
-      
-          if(parseFloat(total_up*100).toFixed(2) > parseFloat(total_down*100).toFixed(2) ) {
-            $('#indicator').html('UP');
-          } else {
-            $('#indicator').html('DOWN');
-          } 
-        } 
-      });
-  }); 
-		</script>
+			$("#macd_msg").html("");
+			$("#macd_up").html(parseFloat(data['5']).toFixed(2) + "% UP");  
+			$("#macd_down").html(parseFloat(data['6']).toFixed(2) + "% DOWN");  
+		}
+		if(v) {
+
+			total_up *= data['7']/100;
+			total_down *= data['8']/100;
+
+			$("#volume_msg").html("");
+			$("#volume_up").html(parseFloat(data['7']).toFixed(2) + "% UP");  
+			$("#volume_down").html(parseFloat(data['8']).toFixed(2) + "% DOWN");
+		}
+		var tmp_up, tmp_down; 
+		tmp_up = total_up/(total_up + total_down);
+		tmp_down = total_down/(total_up + total_down);
+		total_up = tmp_up;
+		total_down = tmp_down;
+		if(e || m || v) {
+			$('#total_up').html(parseFloat(total_up*100).toFixed(2) + "%");
+			$('#total_down').html(parseFloat(total_down*100).toFixed(2) + "%");
+
+			if(parseFloat(total_up*100).toFixed(2) > parseFloat(total_down*100).toFixed(2) ) {
+				$('#indicator').html('UP');
+			} else {
+				$('#indicator').html('DOWN');
+			} 
+		} 
+	});
+}); 
+</script>
 	</head>
 	<body>
 			<div class="" id="header">

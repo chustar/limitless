@@ -1,7 +1,8 @@
 # This file inserts the historgram data into table volume 
 require 'mysql'
 require 'date'
-
+$stdout = File.new('macd.out', 'w')
+    $stdout.sync = true
 #my = Mysql.new(hostname, username, password, databasename)
 con = Mysql.new('localhost', 'root', '', 'limitless')
 jk = con.query('create TABLE IF NOT EXISTS macd_weekly_window (date date, company varchar(55), histogram float, up bool);')
@@ -10,7 +11,7 @@ jk = con.query('truncate macd_weekly_window;')
 rs = con.query('show tables')
 rs.each_hash { |h| 
                         
-										if h['Tables_in_limitless'] =~ /company_.*/
+										if h['Tables_in_limitless'] =~ /^company_.*/
                     q = con.query("select * from #{h['Tables_in_limitless']} order by date")
                     table = h['Tables_in_limitless']
 										name = h['Tables_in_limitless'].split('_',2)
